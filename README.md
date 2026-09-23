@@ -36,7 +36,8 @@ python src/run_real_reconstruction_and_sample.py
 ```bash
 # Phase 1-3: Data inspection, thread reconstruction, quality filtering
 python src/data_inspection.py
-python src/conversations.py
+# (Rebuilds threads_usable.json and threads_partially_usable.json from the 100MB slice)
+python src/analyze_usable_distribution.py
 
 # Phase 4-6: Problem clustering, 9-intent taxonomy, classifier training
 python src/intents.py
@@ -48,6 +49,9 @@ python src/retrieval.py
 # (imported by agent_pipeline.py — no standalone run needed)
 
 # Phase 10: Golden evaluation set (198 rows, human-labeled)
+# The golden set was manually labeled using a zero-dependency local web tool. 
+# Reviewers can verify the labeling environment by spinning it up locally:
+python src/labeling_tool.py --web        # Opens UI at http://127.0.0.1:8080 (local machine only)
 python src/labeling_tool.py --stats      # check labeling progress
 python src/labeling_tool.py --validate   # validate schema before eval
 
