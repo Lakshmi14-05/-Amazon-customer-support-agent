@@ -1,0 +1,118 @@
+[
+  {
+    "query": "Where do I send my package now that it is ready for return and refund? No return instructions in email.",
+    "predicted_intent": "return_refund_request",
+    "retrieval_method": "sparse_tfidf",
+    "top_similarity": 0.6794,
+    "relevant_hit_count": 1,
+    "coverage_tier": "MODERATE",
+    "coverage_reason": "Partial/moderate evidence found (top similarity: 0.68).",
+    "retrieved_cases": [
+      {
+        "rank": 1,
+        "thread_id": "545725",
+        "intent": "return_refund_request",
+        "similarity": 0.6794,
+        "final_score": 0.9294,
+        "customer_problem": "@AmazonHelp where do I send this now it\u2019s ready for return and refund? No instructions in the email. https://t.co/01svugICBt",
+        "resolution": "@140038 Thanks for reaching out today! From your picture it looks like the label is for Pass My Parcel. When there's a location near you, you'll get this option when setting up a return. Learn more here: https://t.co/qayAJDsxRW ^JM"
+      },
+      {
+        "rank": 2,
+        "thread_id": "601305",
+        "intent": "return_refund_request",
+        "similarity": 0.0811,
+        "final_score": 0.3311,
+        "customer_problem": "@AmazonHelp Amazon delivered my package to the wrong address.  They replaced the item but now want me to send back the original that I never got.  What do I do?",
+        "resolution": "@262648 So sorry for the confusion! Please reach out to us via phone or chat here: https://t.co/hApLpMlfHN so that we can take a look at your account. Let us know if that helps! ^MH"
+      }
+    ]
+  },
+  {
+    "query": "My one-day prime shipping order is 2 days late and still says in transit. When will it arrive?",
+    "predicted_intent": "delivery_delay_tracking",
+    "retrieval_method": "sparse_tfidf",
+    "top_similarity": 0.131,
+    "relevant_hit_count": 0,
+    "coverage_tier": "THIN_OR_ABSENT",
+    "coverage_reason": "Insufficient grounding evidence in historical resolved cases (top similarity: 0.13 < 0.20).",
+    "retrieved_cases": [
+      {
+        "rank": 1,
+        "thread_id": "526181",
+        "intent": "delivery_delay_tracking",
+        "similarity": 0.131,
+        "final_score": 0.381,
+        "customer_problem": "@115850 @115821 @AmazonHelp @115821 Order # 402-0726587-9868359. It's been 18 days, haven't recvd item so far. Why so late? When will I receive product? Today is last expected day to deliver.",
+        "resolution": "@241744 Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. (2/2) ^KA"
+      },
+      {
+        "rank": 2,
+        "thread_id": "49127",
+        "intent": "delivery_delay_tracking",
+        "similarity": 0.0981,
+        "final_score": 0.3481,
+        "customer_problem": "@AmazonHelp Was told that one day delivery would use a different carrier, have just got the dispatch email and it says it\u2019s the same 1/2",
+        "resolution": "@126974 I'm sorry your order was delivered to the wrong address! We'd like to make sure you get the new order so keep us posted! ^DD"
+      }
+    ]
+  },
+  {
+    "query": "Tracking says delivered to resident 2 hours ago, but nobody was home and porch is empty! Was it stolen??",
+    "predicted_intent": "missing_stolen_delivery",
+    "retrieval_method": "sparse_tfidf",
+    "top_similarity": 0.1498,
+    "relevant_hit_count": 0,
+    "coverage_tier": "THIN_OR_ABSENT",
+    "coverage_reason": "Insufficient grounding evidence in historical resolved cases (top similarity: 0.15 < 0.20).",
+    "retrieved_cases": [
+      {
+        "rank": 1,
+        "thread_id": "96750",
+        "intent": "missing_stolen_delivery",
+        "similarity": 0.1498,
+        "final_score": 0.3998,
+        "customer_problem": "@AmazonHelp hi, I had two packages delivered yesterday via amazon shipping, tracking says they were handed to resident but no one in my house has received them?",
+        "resolution": "@137115 We definitely want to make sure that you do receive your package! Does your tracking state which carrier is being used for this shipment? ^GP"
+      },
+      {
+        "rank": 2,
+        "thread_id": "503418",
+        "intent": "missing_stolen_delivery",
+        "similarity": 0.1263,
+        "final_score": 0.3763,
+        "customer_problem": "@AmazonHelp tracking my parcel says it was handed to resident. This is a lie. I have been in all evening and nothing has been delivered. Please can you send item again at no cost to myself.",
+        "resolution": "@235306 Hi, Charlotte- I'm so sorry to hear about the trouble you've had with your delivery. I understand what an inconvenience that is. Let's try these steps first: https://t.co/vMCeXnX9qY. Let us know how it goes! ^BL"
+      }
+    ]
+  },
+  {
+    "query": "The ceramic coffee mug arrived in a thousand broken pieces completely smashed in the envelope!",
+    "predicted_intent": "damaged_defective_wrong_item",
+    "retrieval_method": "sparse_tfidf",
+    "top_similarity": 0.0915,
+    "relevant_hit_count": 0,
+    "coverage_tier": "THIN_OR_ABSENT",
+    "coverage_reason": "Insufficient grounding evidence in historical resolved cases (top similarity: 0.09 < 0.20).",
+    "retrieved_cases": [
+      {
+        "rank": 1,
+        "thread_id": "498510",
+        "intent": "damaged_defective_wrong_item",
+        "similarity": 0.0915,
+        "final_score": 0.3415,
+        "customer_problem": "@AmazonHelp I know you have a returns policy but I am a bit concerned that I had to point out that it wasn't exactly safe to post a broken ceramic item back for a refund! (Didn't want the postie getting injured!)",
+        "resolution": "@234000 Please be sure to leave feedback in the survey at the bottom of the e-mail sent after speaking with us. Once completed these are sent to management for review to help with coaching opportunities. ^EP"
+      },
+      {
+        "rank": 2,
+        "thread_id": "509365",
+        "intent": "damaged_defective_wrong_item",
+        "similarity": 0.0632,
+        "final_score": 0.3132,
+        "customer_problem": "@AmazonHelp Serious fail when the box I ordered was damaged before shipping! As you can see nothing sharp in the box to create a hole. \n#CustomerExperience https://t.co/kpM3xMtmb7",
+        "resolution": "@129457 We'd like to look into our options with you. Please reach out to us by phone or chat here: https://t.co/EKXRLsnxJu ^GR"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1279 @@
+{
+  "usable": [
+    {
+      "thread_id": "101674",
+      "brand": "AmazonHelp",
+      "turns_count": 11,
+      "messages": [
+        {
+          "tweet_id": 101674,
+          "author_id": "138275",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 17:38:50 +0000 2017",
+          "text": "@AmazonHelp trying to place an order via pantry and use code PANTRY10 as its my first order. I tried speaking to someone last night but they cut me off? Any advice? Thanks"
+        },
+        {
+          "tweet_id": 101672,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 17:42:01 +0000 2017",
+          "text": "@138275 Thank you for contacting us. We are here to help!  Just to clarify, which Amazon site are you using? https://t.co/Pw2smIHz5h or any others? ^SC"
+        },
+        {
+          "tweet_id": 101673,
+          "author_id": "138275",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 18:07:45 +0000 2017",
+          "text": "@AmazonHelp Hi i was actually using my amazon app if that helps which is https://t.co/qaaBQCfkWM prime"
+        },
+        {
+          "tweet_id": 101675,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 18:11:29 +0000 2017",
+          "text": "@138275 Hi, Debbie! I'm very sorry that you've had trouble placing your first Pantry order. If the app isn't working, you have a couple of options. You can try uninstalling and re-installing the app, to see if that clears it up. Or you can try placing the order on a PC. ^SP"
+        },
+        {
+          "tweet_id": 101676,
+          "author_id": "138275",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 18:28:07 +0000 2017",
+          "text": "@AmazonHelp Hi tried what you said and it's still not working."
+        },
+        {
+          "tweet_id": 101677,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 18:37:33 +0000 2017",
+          "text": "@138275 Sorry for any inconvenience caused! With Twitter, we're unable to access your account information. Please, allow us to troubleshoot in real time via phone or chat here: https://t.co/JzP7hlA23B ^JE"
+        },
+        {
+          "tweet_id": 101678,
+          "author_id": "138275",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 18:59:04 +0000 2017",
+          "text": "@AmazonHelp Thank you for your help. Have done exactly what you said and am no further on. Been told to order the items, then email cust services and they might issue refund. Offer ends 30th and i will get a  reply in 24 hours. Very poor telephone cust service and I'm not placing an order"
+        },
+        {
+          "tweet_id": 101679,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 19:08:00 +0000 2017",
+          "text": "@138275 I'm so sorry about this frustrating experience! You were actually told you \"might\" get a refund after you placed the order? I wouldn't place the order either! Please provide your details &amp; we'll reach out to work on a resolution together: https://t.co/jtHSKEtc0y ^SP"
+        },
+        {
+          "tweet_id": 101680,
+          "author_id": "138275",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 19:11:22 +0000 2017",
+          "text": "@AmazonHelp Sent my email address by private message thank you"
+        },
+        {
+          "tweet_id": 101681,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 19:17:00 +0000 2017",
+          "text": "@138275 Debbie, I'm sorry, but we aren't able to view accounts from Twitter. If you wouldn't mind, please click on the link that SP provided and give us your details there. Thanks! ^VF"
+        },
+        {
+          "tweet_id": 101682,
+          "author_id": "138275",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 19:19:17 +0000 2017",
+          "text": "@AmazonHelp Thanks for trying but haven't got time to go through it all again. Not worth it for 10 off. Will order from elsewhere"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "15707",
+      "brand": "AmazonHelp",
+      "turns_count": 3,
+      "messages": [
+        {
+          "tweet_id": 15707,
+          "author_id": "119454",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 02:55:13 +0000 2017",
+          "text": "@AmazonHelp have a query regarding cash back during 14-17 October sale. Email/DM ?"
+        },
+        {
+          "tweet_id": 15705,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 03:15:29 +0000 2017",
+          "text": "@119454 We'd like to help you with the cash back. Kindly get in touch with our support team here: https://t.co/rS49hgaADF ^AK"
+        },
+        {
+          "tweet_id": 15706,
+          "author_id": "119454",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 14:38:55 +0000 2017",
+          "text": "@AmazonHelp ok. Thanks."
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "9129",
+      "brand": "AmazonHelp",
+      "turns_count": 7,
+      "messages": [
+        {
+          "tweet_id": 9129,
+          "author_id": "117632",
+          "speaker": "customer",
+          "created_at": "Tue Oct 31 23:59:46 +0000 2017",
+          "text": "@AmazonHelp It looks as though someone has changed the email address linked to my acct &amp; I can no longer log in. Help!"
+        },
+        {
+          "tweet_id": 9128,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 00:10:28 +0000 2017",
+          "text": "@117632 We're here to help! Please, reach us phone or e-mail so we can investigate: https://t.co/jzvkhdlrK5 ^EB"
+        },
+        {
+          "tweet_id": 9125,
+          "author_id": "117632",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 00:11:46 +0000 2017",
+          "text": "@AmazonHelp I'm UK based. Are the contact details the same?"
+        },
+        {
+          "tweet_id": 9122,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 00:13:31 +0000 2017",
+          "text": "@117632 Sorry! Try this one instead: https://t.co/JzP7hlA23B ^TR"
+        },
+        {
+          "tweet_id": 9123,
+          "author_id": "117632",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 07:28:02 +0000 2017",
+          "text": "@AmazonHelp Hello? So how do I contact someone if I can't log in?! I'm really concerned about what is happening with my acct and who has access to it!"
+        },
+        {
+          "tweet_id": 9126,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 07:41:27 +0000 2017",
+          "text": "@117632 Hi Emma. I understand. You can use this link (which doesn't require a log in) to get in touch: https://t.co/zYVX1Qi29G ^DC"
+        },
+        {
+          "tweet_id": 9127,
+          "author_id": "117632",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 07:49:02 +0000 2017",
+          "text": "@AmazonHelp Thank you"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "49127",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 49127,
+          "author_id": "126974",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 17:15:27 +0000 2017",
+          "text": "@AmazonHelp Was told that one day delivery would use a different carrier, have just got the dispatch email and it says it’s the same 1/2"
+        },
+        {
+          "tweet_id": 49126,
+          "author_id": "126974",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 17:17:05 +0000 2017",
+          "text": "@AmazonHelp 2/2 carrier who delivered my previous item which i never received, to a random address. Will be disappointed if this happens again tomorrow"
+        },
+        {
+          "tweet_id": 49124,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 17:26:06 +0000 2017",
+          "text": "@126974 I'm sorry your order was delivered to the wrong address! We'd like to make sure you get the new order so keep us posted! ^DD"
+        },
+        {
+          "tweet_id": 49125,
+          "author_id": "126974",
+          "speaker": "customer",
+          "created_at": "Thu Nov 02 16:44:10 +0000 2017",
+          "text": "@AmazonHelp have just received my parcel all okay, thank you guys 🙌🏼"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "38176",
+      "brand": "AmazonHelp",
+      "turns_count": 3,
+      "messages": [
+        {
+          "tweet_id": 38176,
+          "author_id": "124294",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 14:21:24 +0000 2017",
+          "text": "@AmazonHelp someone has used my email address for their amazon account, what do I do?"
+        },
+        {
+          "tweet_id": 38174,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 14:32:33 +0000 2017",
+          "text": "@124294 Sorry for the trouble! Please reach out through the link and provide as much detail as possible: https://t.co/zYVX1Qi29G ^TG"
+        },
+        {
+          "tweet_id": 38175,
+          "author_id": "124294",
+          "speaker": "customer",
+          "created_at": "Sat Nov 04 09:23:09 +0000 2017",
+          "text": "@AmazonHelp Thanks!"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "21941",
+      "brand": "AmazonHelp",
+      "turns_count": 16,
+      "messages": [
+        {
+          "tweet_id": 21941,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Wed Oct 25 05:47:14 +0000 2017",
+          "text": "@115850 @115821 @AmazonHelp\nfed up pls look Order#4__credit_card__.\nI want my products dont need apologies. more than 5 apologise withme"
+        },
+        {
+          "tweet_id": 21940,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Oct 25 06:16:28 +0000 2017",
+          "text": "@120777 Sorry for the trouble, Himanshu. Please fill in your details here: https://t.co/GIJyeYqKE0 and we'll get on it right away. ^JC"
+        },
+        {
+          "tweet_id": 21939,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Wed Oct 25 07:16:03 +0000 2017",
+          "text": "@AmazonHelp details updated on link provided. fed up with your delivery system. india resides in Bharat, and your service at bharat is too bad"
+        },
+        {
+          "tweet_id": 21934,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Oct 25 07:26:55 +0000 2017",
+          "text": "@120777 We regret the inconvenience. We have received your details. We'll work on it and get back to you.  ^SB"
+        },
+        {
+          "tweet_id": 21933,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Thu Oct 26 09:55:10 +0000 2017",
+          "text": "@AmazonHelp what should i do now ?\njust forget it ???"
+        },
+        {
+          "tweet_id": 21932,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Oct 26 10:20:00 +0000 2017",
+          "text": "@120777 I understand the unpleasantness here, Himanshu. We'll respond to you via mail soon. ^JC"
+        },
+        {
+          "tweet_id": 21931,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Fri Oct 27 02:31:38 +0000 2017",
+          "text": "@AmazonHelp Have you gone deeper into the issue or it's just an automated instant reply over Twitter?? @115851"
+        },
+        {
+          "tweet_id": 21929,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Fri Oct 27 02:57:47 +0000 2017",
+          "text": "@120777 Kindly reply to the email received from us and we shall get back to you on this. ^SH"
+        },
+        {
+          "tweet_id": 21927,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Fri Oct 27 03:11:34 +0000 2017",
+          "text": "@AmazonHelp U need to ur mails first.. Are they of any use???"
+        },
+        {
+          "tweet_id": 21926,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Fri Oct 27 03:25:50 +0000 2017",
+          "text": "@120777 our team and we'll get back. (2/2) ^KA"
+        },
+        {
+          "tweet_id": 21925,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Sat Oct 28 17:43:40 +0000 2017",
+          "text": "@AmazonHelp How long it will take..??? I had ordered on 8th October."
+        },
+        {
+          "tweet_id": 21924,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 07:03:07 +0000 2017",
+          "text": "@AmazonHelp I hope u r done with all sorries apologies understanding n other such words to keep customer waiting?\n\nNow pls deliver my order."
+        },
+        {
+          "tweet_id": 21922,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 07:32:30 +0000 2017",
+          "text": "@120777 We've sent you an email on this. Please refer the same. The resolution provided is the best we could offer in this case. ^HK"
+        },
+        {
+          "tweet_id": 21921,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 07:35:57 +0000 2017",
+          "text": "@AmazonHelp No resolution provided.. Thats again a regret msg nothing more.. I need my products"
+        },
+        {
+          "tweet_id": 21919,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 08:03:27 +0000 2017",
+          "text": "@120777 I'm sorry but we'll not be able to offer further insight on this. ^HK"
+        },
+        {
+          "tweet_id": 21920,
+          "author_id": "120777",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 08:07:20 +0000 2017",
+          "text": "@AmazonHelp Thanks alot"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "17183",
+      "brand": "AmazonHelp",
+      "turns_count": 3,
+      "messages": [
+        {
+          "tweet_id": 17183,
+          "author_id": "119790",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 04:10:07 +0000 2017",
+          "text": "'Hey @AmazonHelp i haven't received my \"delivered\" order.' \n'Did you check around your house' lmao https://t.co/w6FRcwmoFX"
+        },
+        {
+          "tweet_id": 17181,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 04:28:00 +0000 2017",
+          "text": "@119790 I'm sorry you didn't receive your order. Did our customer service agent provide a solution for you? ^SE"
+        },
+        {
+          "tweet_id": 17182,
+          "author_id": "119790",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 04:28:42 +0000 2017",
+          "text": "@AmazonHelp Yes thanks all good!"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "14303",
+      "brand": "AmazonHelp",
+      "turns_count": 3,
+      "messages": [
+        {
+          "tweet_id": 14303,
+          "author_id": "119042",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 02:17:05 +0000 2017",
+          "text": "@AmazonHelp ordered what was on the box for my sister’s wedding gift, that’s what came out of the box. What gives?! https://t.co/8jX9A0Ipcu"
+        },
+        {
+          "tweet_id": 14301,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 02:35:00 +0000 2017",
+          "text": "@119042 I'm sorry for the trouble! We'd like to review available options with you. Please reach out to us here:  https://t.co/hApLpMlfHN ^LJ"
+        },
+        {
+          "tweet_id": 14302,
+          "author_id": "119043",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 02:59:15 +0000 2017",
+          "text": "@AmazonHelp @119042 Thank you! Solved 2 problems with coustomer service. I LOVE Amazon. Super helpful. 👍👍"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "14281",
+      "brand": "AmazonHelp",
+      "turns_count": 5,
+      "messages": [
+        {
+          "tweet_id": 14281,
+          "author_id": "119036",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 02:18:24 +0000 2017",
+          "text": "Placed order today, said delivery would be Wed but just received email saying it'll be Thurs now? I'm a prime customer @AmazonHelp. Unhappy!"
+        },
+        {
+          "tweet_id": 14279,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 02:41:27 +0000 2017",
+          "text": "@119036 I'm so sorry for the frustration! What was the date given in the original confirmation e-mail: https://t.co/SsPOz2ryIS? ^DG"
+        },
+        {
+          "tweet_id": 14280,
+          "author_id": "119036",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 05:37:24 +0000 2017",
+          "text": "@AmazonHelp Today; 1st November. Or I wouldn't have ordered. I needed them to arrive at mums today so she can bring to me urgently in hospital tonight."
+        },
+        {
+          "tweet_id": 14282,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 05:42:51 +0000 2017",
+          "text": "@119036 I can understand your frustration. Please reach out to us here to go over available options: https://t.co/ju0HEJTlrg ^CL"
+        },
+        {
+          "tweet_id": 14283,
+          "author_id": "119036",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 05:47:38 +0000 2017",
+          "text": "@AmazonHelp Thank you - done."
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    },
+    {
+      "thread_id": "74750",
+      "brand": "AmazonHelp",
+      "turns_count": 5,
+      "messages": [
+        {
+          "tweet_id": 74750,
+          "author_id": "132730",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 11:01:53 +0000 2017",
+          "text": "@AmazonHelp I've got a payment about to go on out from my bank for £1 to amazon...i haven't bought anything for £1?! The last thing I bought was paid in full so...?"
+        },
+        {
+          "tweet_id": 74748,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 11:09:00 +0000 2017",
+          "text": "@132730 Hi. This amount may be an authorization charge: Explains further here: https://t.co/PqiTPd88Xg Have you any pending orders/subscriptions with us? ^NV"
+        },
+        {
+          "tweet_id": 74749,
+          "author_id": "132730",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 11:12:39 +0000 2017",
+          "text": "@AmazonHelp Nope everything I've ordered I've received already and their payments are also on my statement, and I have no subscriptions"
+        },
+        {
+          "tweet_id": 74751,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 11:31:00 +0000 2017",
+          "text": "@132730 Thank you for letting us know about that! I'm so sorry about this unknown charge! Please contact us here so we may take a closer look into this for you, Aimée:  https://t.co/hApLpMlfHN ^SA"
+        },
+        {
+          "tweet_id": 74752,
+          "author_id": "132730",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 11:50:51 +0000 2017",
+          "text": "@AmazonHelp Have filled in the form, thanks"
+        }
+      ],
+      "quality_label": "usable",
+      "quality_reason": "Clear customer problem with verified resolution, explicit customer confirmation, or concrete completed action."
+    }
+  ],
+  "partially_usable": [
+    {
+      "thread_id": "9132",
+      "brand": "AmazonHelp",
+      "turns_count": 3,
+      "messages": [
+        {
+          "tweet_id": 9132,
+          "author_id": "117633",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 00:09:41 +0000 2017",
+          "text": "Haha @117634 has been sneakily charging me $9.99 SINCE FEBRUARY for a service I never use💩🙈👎 $90 gone!!! Thanks @AmazonHelp"
+        },
+        {
+          "tweet_id": 9130,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 00:11:24 +0000 2017",
+          "text": "@117633 Oh no! We'd like to review these charges and available options with you. Please reach us here: https://t.co/hApLpMlfHN. ^EZ"
+        },
+        {
+          "tweet_id": 9131,
+          "author_id": "117633",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 00:17:07 +0000 2017",
+          "text": "@AmazonHelp I appreciate the quick reply!!!"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Substantive customer issue present, but brand redirected to private DM/link without public resolution."
+    },
+    {
+      "thread_id": "8524",
+      "brand": "AmazonHelp",
+      "turns_count": 2,
+      "messages": [
+        {
+          "tweet_id": 8524,
+          "author_id": "117497",
+          "speaker": "customer",
+          "created_at": "Tue Oct 31 23:43:44 +0000 2017",
+          "text": "@AmazonHelp my original echo some time say things without asking here anything ! This is really wired and creepy and scary!!"
+        },
+        {
+          "tweet_id": 8523,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Tue Oct 31 23:49:32 +0000 2017",
+          "text": "@117497 Hmm, that's strange! Try going to Settings and reviewing your history. From here, you can see what prompted your Echo. ^FD"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Brand engaged with clarification or partial advice, but outcome remains unconfirmed."
+    },
+    {
+      "thread_id": "21403",
+      "brand": "AmazonHelp",
+      "turns_count": 11,
+      "messages": [
+        {
+          "tweet_id": 21403,
+          "author_id": "120682",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 07:49:45 +0000 2017",
+          "text": "@AmazonHelp gudn morgen! Hab das Problem das meine Karte nicht angenommen wird und ich stattdessen eine Kreditkarte angeben soll 1/2"
+        },
+        {
+          "tweet_id": 21402,
+          "author_id": "120682",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 07:50:50 +0000 2017",
+          "text": "@AmazonHelp Ist aber nur bei dem Produkt, bei anderen funktioniert es. Ne Idee was ich machen kann? 2/2"
+        },
+        {
+          "tweet_id": 21401,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 07:53:27 +0000 2017",
+          "text": "@120682 Wenn der Bankeinzug abgelehnt wurde, bleibt leider nur die Möglichkeit mit Kreditkarte oder Gutscheinen zu zahlen. ^AN"
+        },
+        {
+          "tweet_id": 21393,
+          "author_id": "120682",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 07:55:06 +0000 2017",
+          "text": "@AmazonHelp Würde das funktionieren, wenn ich mein Konto auflade? Da gibts ja diese Funktion in der App. Dann müsste ich nicht los und einen holen. 😅"
+        },
+        {
+          "tweet_id": 21390,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 07:58:00 +0000 2017",
+          "text": "@120682 Dann wird die Zahlungsart nochmal geprüft. Du kannst es gerne versuchen, aber ob es klappt kann ich dir nicht versprechen. ^AN"
+        },
+        {
+          "tweet_id": 21391,
+          "author_id": "120682",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 08:18:45 +0000 2017",
+          "text": "@AmazonHelp P.s hat funktioniert mit dem Konto aufladen!"
+        },
+        {
+          "tweet_id": 21394,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 08:22:00 +0000 2017",
+          "text": "@120682 Super, das freut mich! Gib aber nicht gleich alles auf einmal aus 😉 ^DW"
+        },
+        {
+          "tweet_id": 21395,
+          "author_id": "120682",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 08:22:35 +0000 2017",
+          "text": "@AmazonHelp Zu spät. 🙈😂"
+        },
+        {
+          "tweet_id": 21396,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 08:24:55 +0000 2017",
+          "text": "@120682 Ich beschwer mich da jetzt mal nicht drüber 🤣 ^AN"
+        },
+        {
+          "tweet_id": 21397,
+          "author_id": "120682",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 08:38:10 +0000 2017",
+          "text": "@AmazonHelp 😂😂😂 Wie gesagt euch ein schönen restlichen Feiertag, auch wenn ich Supportet (nennt man das so?) 😂"
+        },
+        {
+          "tweet_id": 21398,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 08:41:00 +0000 2017",
+          "text": "@120682 Danke, dir auch. Wir supporten dann mal fleißig weiter 😄 ^AN"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Brand engaged with clarification or partial advice, but outcome remains unconfirmed."
+    },
+    {
+      "thread_id": "43261",
+      "brand": "AmazonHelp",
+      "turns_count": 2,
+      "messages": [
+        {
+          "tweet_id": 43261,
+          "author_id": "125585",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 15:55:26 +0000 2017",
+          "text": "@AmazonHelp Why is the following item only preorderable?\nOther sellers than amazon do ship already. https://t.co/SZTDDD7sUF"
+        },
+        {
+          "tweet_id": 43260,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 16:11:02 +0000 2017",
+          "text": "@125585 Hi, I will forward it to the responsible department so they can take a look into that. Kind regards, ^SI"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Brand engaged with clarification or partial advice, but outcome remains unconfirmed."
+    },
+    {
+      "thread_id": "45535",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 45535,
+          "author_id": "126079",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 16:26:28 +0000 2017",
+          "text": "@AmazonHelp my order is missing two pieces of the value pack. I don't want to return what I received but can I get those pieces?"
+        },
+        {
+          "tweet_id": 45534,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 16:31:40 +0000 2017",
+          "text": "@126079 I'm so sorry your order is missing two pieces! The available refund/replace options can be found here: https://t.co/2e4srIbpQk ^WJ"
+        },
+        {
+          "tweet_id": 45533,
+          "author_id": "126079",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 16:32:46 +0000 2017",
+          "text": "@AmazonHelp Thanks! I need to use the item tomorrow so I can't really return the rest of it. Is there any way to get a partial refund?"
+        },
+        {
+          "tweet_id": 45532,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 16:41:00 +0000 2017",
+          "text": "@126079 We'd like to take a look into some available options with you. Please reach out to us here: https://t.co/hApLpMlfHN ^TH"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Substantive customer issue present, but brand redirected to private DM/link without public resolution."
+    },
+    {
+      "thread_id": "99787",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 99787,
+          "author_id": "137846",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 17:20:04 +0000 2017",
+          "text": "@AmazonHelp Shoutout to one of your deliverers for delivering a package to my house that isn’t mine and told my mom to keep it and left. Ps, the destination for the package is RIGHT ACROSS THE STREET."
+        },
+        {
+          "tweet_id": 99785,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 17:27:29 +0000 2017",
+          "text": "@137846 I'm so sorry for the difficulty! Do you happen to know who the carrier was for this item? We're here to help. ^MH"
+        },
+        {
+          "tweet_id": 99786,
+          "author_id": "137846",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 18:00:05 +0000 2017",
+          "text": "@AmazonHelp Unfortunately I didn’t get the carriers name but my intention is to let you guys know so that an improvement can be made. BTW this happened in the area of Arbutus, MD"
+        },
+        {
+          "tweet_id": 99788,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 18:03:43 +0000 2017",
+          "text": "@137846 We'd like to get this looked into, Marc! Please reach us by phone or chat so we can get carrier feedback from you here: https://t.co/hApLpMlfHN. Thanks in advance! ^KJ"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Substantive customer issue present, but brand redirected to private DM/link without public resolution."
+    },
+    {
+      "thread_id": "5331",
+      "brand": "AmazonHelp",
+      "turns_count": 6,
+      "messages": [
+        {
+          "tweet_id": 5331,
+          "author_id": "116936",
+          "speaker": "customer",
+          "created_at": "Sat Nov 25 19:49:27 +0000 2017",
+          "text": "@AmazonHelp live chat down in the UK and as a prime member I cannot t get any items delivered before Tuesday whats going on?"
+        },
+        {
+          "tweet_id": 5330,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Sat Nov 25 19:53:00 +0000 2017",
+          "text": "@116936 Hi there, I'm sorry for the delivery troubles! Just to confirm, are you trying to place an order right now, or is this an ongoing issue? Are we missing the promised delivery dates here: https://t.co/aaDyEz1VgE? ^DW"
+        },
+        {
+          "tweet_id": 5328,
+          "author_id": "116936",
+          "speaker": "customer",
+          "created_at": "Sun Nov 26 00:06:14 +0000 2017",
+          "text": "@AmazonHelp Trying to place an order this happened before and deleting and rentering my address fixed it but now it's across multiple prime accounts to the same address"
+        },
+        {
+          "tweet_id": 5326,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Sun Nov 26 00:13:26 +0000 2017",
+          "text": "@116936 Prime shipping refers to transit time after your orders ship, in working days. Some orders require additional processing and handling. The delivery date shown at checkout is the most accurate.  ^LR"
+        },
+        {
+          "tweet_id": 5327,
+          "author_id": "116936",
+          "speaker": "customer",
+          "created_at": "Sun Nov 26 09:54:28 +0000 2017",
+          "text": "@AmazonHelp But why has every item got  3+ days processing time when it's usually next day"
+        },
+        {
+          "tweet_id": 5329,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Sun Nov 26 10:01:53 +0000 2017",
+          "text": "@116936 Some deliveries may take slightly longer than usual. You can read more information on here: https://t.co/VrNzEOwawt ^KI"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Substantive customer issue present, but brand redirected to private DM/link without public resolution."
+    },
+    {
+      "thread_id": "38200",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 38200,
+          "author_id": "124166",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 14:26:28 +0000 2017",
+          "text": "Can't! Acct hacked. Autoreply: This email address doesnt accept emails. \ncontact Amazon customer service if you need assistance.@AmazonHelp"
+        },
+        {
+          "tweet_id": 38198,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 14:30:35 +0000 2017",
+          "text": "@124166 Hmm. That is odd! Will it allow you to call using the link provided by AD? ^AL"
+        },
+        {
+          "tweet_id": 38199,
+          "author_id": "124166",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 14:41:28 +0000 2017",
+          "text": "@AmazonHelp I sent in the link and in 1\"2-24 hours\" I expect to hear from @115821. I hope the scum that hacked my account isn't on a shopping spree!"
+        },
+        {
+          "tweet_id": 38201,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 14:46:01 +0000 2017",
+          "text": "@124166 I'm glad you were able to get this process started, Jennifer! Our specialists will be in contact with you soon! ^FR"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Brand engaged with clarification or partial advice, but outcome remains unconfirmed."
+    },
+    {
+      "thread_id": "77635",
+      "brand": "AmazonHelp",
+      "turns_count": 2,
+      "messages": [
+        {
+          "tweet_id": 77635,
+          "author_id": "133295",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 12:32:21 +0000 2017",
+          "text": "@115850 @AmazonHelp this is not the first time i experienced this poor service...check your records i ordered this producg second time in a week trusting you but still does not get product delivered..it cost nothing but customers time if u understand"
+        },
+        {
+          "tweet_id": 80801,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 13:05:00 +0000 2017",
+          "text": "@133295 I get your concern regarding the packaging. As mentioned earlier, we have forwarded your comments as feedback to our concerned team. Kindly let us know if you are facing any issue with the item received. ^RI"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Brand engaged with clarification or partial advice, but outcome remains unconfirmed."
+    },
+    {
+      "thread_id": "43272",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 43272,
+          "author_id": "125588",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 15:56:04 +0000 2017",
+          "text": "@AmazonHelp I received an item today that has a tag on it saying it is new, but it very clearly isn't new. It's a present. Please help."
+        },
+        {
+          "tweet_id": 43270,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 16:05:29 +0000 2017",
+          "text": "@125588 I'm sure this isn't what you expected to receive! Was this coming from Amazon or a seller on our site? Pls let us know! ^MT"
+        },
+        {
+          "tweet_id": 43271,
+          "author_id": "125588",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 16:07:16 +0000 2017",
+          "text": "@AmazonHelp It was from a third party seller but fulfilled by Amazon."
+        },
+        {
+          "tweet_id": 43273,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 16:22:29 +0000 2017",
+          "text": "@125588 We'd like to look into available options with you. Please reach out to us by phone here: https://t.co/hApLpMlfHN ^VS"
+        }
+      ],
+      "quality_label": "partially_usable",
+      "quality_reason": "Substantive customer issue present, but brand redirected to private DM/link without public resolution."
+    }
+  ],
+  "unusable": [
+    {
+      "thread_id": "71854",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 71854,
+          "author_id": "132124",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 10:17:12 +0000 2017",
+          "text": "@AmazonHelp Buenos días, he realizado un pedido que según vuestra página ya ha sido entregado a un DNI que conozco, pero a mi casa no ha llegado nada. Gracias!"
+        },
+        {
+          "tweet_id": 71852,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 10:24:00 +0000 2017",
+          "text": "@132124 ¡Hola Manuel! Siento mucho el inconveniente. ¿Necesitamos saber si ya entraste en contacto con la transportadora? ^NP"
+        },
+        {
+          "tweet_id": 71853,
+          "author_id": "132124",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 10:26:19 +0000 2017",
+          "text": "@AmazonHelp Les he llamado varias veces y les he mandado mensajes, pero no he conseguido ponerme en contacto"
+        },
+        {
+          "tweet_id": 71855,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 10:31:28 +0000 2017",
+          "text": "@132124 En este caso por favor verifica cual es la transportadora que envió tu pedido, y entra en contacto con ellos, en el siguiente enlace aparecerá el numero de la transportadora: https://t.co/meqnr4QIaC. ^NP"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "77555",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 77555,
+          "author_id": "133279",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 12:01:40 +0000 2017",
+          "text": "Últimamente el servicio de @AmazonHelp da pena con los repartidores, se supone que Amazon logistic son de ellos o terceros? penoso!!!!"
+        },
+        {
+          "tweet_id": 77553,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 12:10:34 +0000 2017",
+          "text": "@133279 Hola, sentimos los inconvenientes. ¿Nos podrías comentar si tienes algún pedido pendiente de entrega? Recuerda que también puedes realizar tus valoraciones y comentarios en el siguiente enlace: https://t.co/icb2Y4RbIw ^KA"
+        },
+        {
+          "tweet_id": 77554,
+          "author_id": "133279",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 12:52:34 +0000 2017",
+          "text": "@AmazonHelp ya lo he hablado por chat, gracias."
+        },
+        {
+          "tweet_id": 77556,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 12:55:30 +0000 2017",
+          "text": "@133279 Comprendo, ¡que tengas un buen día! ^KA"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "44533",
+      "brand": "AmazonHelp",
+      "turns_count": 2,
+      "messages": [
+        {
+          "tweet_id": 44533,
+          "author_id": "125879",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 16:00:47 +0000 2017",
+          "text": "Es gibt noch einen bescheideneren Logistiker als @124285. @AmazonHelp ist noch viel besser. Ihr gebt Euch echt die Klinke in die Hand."
+        },
+        {
+          "tweet_id": 44532,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 16:20:31 +0000 2017",
+          "text": "@125879 Hi, bitte informiere direkt die Kollegen vom Kundenservice darüber: https://t.co/ohyvGrpvrY Vielen Dank! ^SI"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "99854",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 99854,
+          "author_id": "137862",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 17:06:50 +0000 2017",
+          "text": "@AmazonHelp Pedido hecho el día 24. Fecha prevista en ese momento, martes 28 (teniendo premium). Martes nada y pone que miercoles 29 se entregará. Estamos a 30 y sigue poniendo que entrega prevista ayer. Y en la web de @137864 pone estado \"Paso por plataforma\". Que verguenza"
+        },
+        {
+          "tweet_id": 99853,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 17:10:28 +0000 2017",
+          "text": "@137862 Hola, lamentamos el contratiempo con la entrega de tu paquete. ¿Podrías comentarnos si has contactado con compañía de transportes para verificar lo que ha sucedido? ^AA"
+        },
+        {
+          "tweet_id": 99852,
+          "author_id": "137862",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 17:16:25 +0000 2017",
+          "text": "@AmazonHelp No, he presentado una reclamación diréctamente"
+        },
+        {
+          "tweet_id": 99851,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 17:23:32 +0000 2017",
+          "text": "@137862 Comprendo. @137863, ¿podrían ayudarnos con esta entrega? Avísanos si no recibes respuesta. ^LG"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "3740",
+      "brand": "AmazonHelp",
+      "turns_count": 2,
+      "messages": [
+        {
+          "tweet_id": 3740,
+          "author_id": "116614",
+          "speaker": "customer",
+          "created_at": "Tue Oct 31 22:49:24 +0000 2017",
+          "text": "@AmazonHelp na ultima atualização da entrega do meu pedido, consta que não foi possível localizar o meu endereço, poderia ajudar?"
+        },
+        {
+          "tweet_id": 3739,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Tue Oct 31 23:04:57 +0000 2017",
+          "text": "@116614 Olá Georgiano. Sinto muito em saber disso. Por favor entre em contato com o nosso SAC no seguinte link: https://t.co/ouAOLcNWp4 ^JJ"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "95424",
+      "brand": "AmazonHelp",
+      "turns_count": 6,
+      "messages": [
+        {
+          "tweet_id": 95424,
+          "author_id": "136749",
+          "speaker": "customer",
+          "created_at": "Wed Nov 29 11:04:47 +0000 2017",
+          "text": "merci \"Amazon Mulder\"👽 @AmazonHelp  Bonne journée à vous👽😘 https://t.co/3UpqXoh8zZ"
+        },
+        {
+          "tweet_id": 95422,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 16:02:00 +0000 2017",
+          "text": "@136749 Oh yeah, oh yeah 😍!\nQuelqu'un a déja épuisé son stock de \"Stranger Things\" hmmm!\n^SA"
+        },
+        {
+          "tweet_id": 95423,
+          "author_id": "136749",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 16:34:03 +0000 2017",
+          "text": "@AmazonHelp ah ah c'est vrai, vous avez totalement raison !! 😆 mais pour X-files je suis une fan de la première heure !! Impossible de ne pas faire l'acquisition de ce superbe coffret en blu-ray !! 😍 (merci au père noel d'Amazon qui fait hyper bien son job)😉"
+        },
+        {
+          "tweet_id": 95425,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 16:55:00 +0000 2017",
+          "text": "@136749 Ah génial, moi par contre je n'ai toujours pas terminé la 2ème saisine de Stranger Things  ( Friends don't lie 😜)"
+        },
+        {
+          "tweet_id": 95426,
+          "author_id": "136749",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 17:05:33 +0000 2017",
+          "text": "@AmazonHelp et les amis ne spoilent pas non plus, alors je ne dirais rien !😇  Je vous souhaite une bonne soirée et un bon visionnage pour Stranger Things !😊"
+        },
+        {
+          "tweet_id": 95427,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 17:27:00 +0000 2017",
+          "text": "@136749 Ouiiiii 😍!\nMerci beaucoup, bonne soirée à vous également.\n^SA"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "101729",
+      "brand": "AmazonHelp",
+      "turns_count": 6,
+      "messages": [
+        {
+          "tweet_id": 101729,
+          "author_id": "138283",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 17:34:16 +0000 2017",
+          "text": "@AmazonHelp Una pregunta: hice un pedido que figuraba que llegaba el lunes 4. Al comprarlo me salía que la fecha prevista de entrega era el miércoles 6, pero hoy a cambiado que está previsto para llegar el lunes 4, ¿Y este cambio de fechas? Gracias!"
+        },
+        {
+          "tweet_id": 101727,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 17:38:01 +0000 2017",
+          "text": "@138283 Hola, lamentamos el inconveniente. ¿El producto ha sido vendido y enviado por Amazon o bien por un vendedor externo? ^FZ"
+        },
+        {
+          "tweet_id": 101728,
+          "author_id": "138283",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 17:50:11 +0000 2017",
+          "text": "@AmazonHelp Vendido y enviado por amazon. Lo que me gustaría saber si llegará el lunes o no, ya que estoy perdido al que cambiara la fecha jaja"
+        },
+        {
+          "tweet_id": 101730,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 17:52:34 +0000 2017",
+          "text": "@138283 Comprendo. En este caso, debes recibir tu pedido en la fecha estimada de entrega que te indica en el sitio web 😉. ^LG"
+        },
+        {
+          "tweet_id": 101731,
+          "author_id": "138283",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 18:15:05 +0000 2017",
+          "text": "@AmazonHelp ¡Muchas gracias!"
+        },
+        {
+          "tweet_id": 101732,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 19:16:00 +0000 2017",
+          "text": "@138283 ¡Un placer! Cualquier duda adicional no dudes en contactarnos. 🙂 ^DS"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "34540",
+      "brand": "AmazonHelp",
+      "turns_count": 4,
+      "messages": [
+        {
+          "tweet_id": 34540,
+          "author_id": "123485",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 13:02:22 +0000 2017",
+          "text": "@AmazonHelp  Bonjour , pas moyens de link mon compte amazon prime avec twitch , comment ça se fais ? https://t.co/TyFA307KHW"
+        },
+        {
+          "tweet_id": 34538,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 13:18:52 +0000 2017",
+          "text": "@123485 Bonjour, avez-vous signalé cet incident à notre SAV ? ^FA"
+        },
+        {
+          "tweet_id": 34539,
+          "author_id": "123485",
+          "speaker": "customer",
+          "created_at": "Wed Nov 01 13:35:36 +0000 2017",
+          "text": "@AmazonHelp Non , je ne l'ai pas signalé"
+        },
+        {
+          "tweet_id": 34541,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Wed Nov 01 13:42:00 +0000 2017",
+          "text": "@123485 Vous pouvez contacter notre service client depuis le lien suivant : https://t.co/qzuu0dgDXz . ^ASZ"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "89240",
+      "brand": "AmazonHelp",
+      "turns_count": 6,
+      "messages": [
+        {
+          "tweet_id": 89240,
+          "author_id": "135299",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 14:29:15 +0000 2017",
+          "text": "WTF @116928 @AmazonHelp Me ha llegado un cómic que pedí mojado.. https://t.co/RiCar7i0tw"
+        },
+        {
+          "tweet_id": 89239,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 14:35:00 +0000 2017",
+          "text": "@135299 Hola Paula, lamentamos mucho el inconveniente. Cuéntanos, ¿el articulo fue vendido y enviado por Amazon o por un vendedor externo de nuestra tienda? ^RC"
+        },
+        {
+          "tweet_id": 89238,
+          "author_id": "135299",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 14:37:40 +0000 2017",
+          "text": "@AmazonHelp Vuestro,el caso es que el sobre de cartón venía mojado de la lluvia o algo y uno de los cómic esta mojado,el otro no..lo traía Correos."
+        },
+        {
+          "tweet_id": 89237,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 14:42:27 +0000 2017",
+          "text": "@135299 Hola Paula, por favor ponte en contacto con nuestros compañeros de Servicio al Cliente al siguiente enlace: https://t.co/OjvUxwnzPe ^RC"
+        },
+        {
+          "tweet_id": 89236,
+          "author_id": "135299",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 14:43:00 +0000 2017",
+          "text": "@AmazonHelp Vale! Gracias"
+        },
+        {
+          "tweet_id": 89235,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 14:46:34 +0000 2017",
+          "text": "@135299 Con gusto, Paula. Cualquier consulta adicional, no dudes en contactarnos nuevamente. ^LG"
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    },
+    {
+      "thread_id": "69754",
+      "brand": "AmazonHelp",
+      "turns_count": 3,
+      "messages": [
+        {
+          "tweet_id": 69754,
+          "author_id": "131801",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 09:46:31 +0000 2017",
+          "text": "Das ist nicht euer ernst oder?? @116316 @AmazonHelp https://t.co/cGC94D9MVJ"
+        },
+        {
+          "tweet_id": 69751,
+          "author_id": "AmazonHelp",
+          "speaker": "brand",
+          "created_at": "Thu Nov 30 09:50:33 +0000 2017",
+          "text": "@131801 Die Lieferzeit sollte dir bei Bestellaufgabe bereits angezeigt worden sein. Bitte kontrolliere doch hierzu mal die von uns gesandte Mail.^DW"
+        },
+        {
+          "tweet_id": 69752,
+          "author_id": "131801",
+          "speaker": "customer",
+          "created_at": "Thu Nov 30 09:59:11 +0000 2017",
+          "text": "@AmazonHelp Selbst die fand ich lange.. Aber ich bin ja Amazon Fan.."
+        }
+      ],
+      "quality_label": "unusable",
+      "quality_reason": "Non-English tweet interaction."
+    }
+  ]
+}

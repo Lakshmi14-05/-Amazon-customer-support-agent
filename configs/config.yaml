@@ -1,0 +1,19 @@
+# Configuration for Hiver AI Support Agent
+project:
+  name: "hiver-support-agent"
+  version: "0.1.0"
+  selected_brand: "AmazonHelp"
+
+paths:
+  raw_data: "data/raw/twcs.csv"
+  processed_dir: "data/processed/"
+  evaluation_dir: "data/evaluation/"
+  reports_dir: "reports/"
+
+sampling:
+  chunk_size: 100000
+  subsample_brand_size: 50000  # For sub-15 minute pipeline execution
+  golden_set_size: 200
+
+models:
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"

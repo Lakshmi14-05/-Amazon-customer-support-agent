@@ -1,0 +1,209 @@
+{
+  "false_auto_handles": [
+    {
+      "thread_id": "296765",
+      "gold_intent": "return_refund_request",
+      "pred_intent": "return_refund_request",
+      "confidence": 0.6333,
+      "draft_reply": "Hello! Thanks for the info! Have you tried us by phone for real-time troubleshooting? If not, please call us: https://t.co/hApLpMlfHN",
+      "escalation_reason": "Prolonged unresolved refund - escalate",
+      "msg": "@AmazonHelp so I ordered something 2 weeks ago paid 56 bucks for prime shipping and I still haven't gotten it???? I want my money back"
+    },
+    {
+      "thread_id": "522480",
+      "gold_intent": "account_access_security",
+      "pred_intent": "account_access_security",
+      "confidence": 0.9743,
+      "draft_reply": "Hello! We'd like to look into this for you. Please write to us here and an Account Specialist will reach out to you: https://t.co/jzvkhd3Qlv",
+      "escalation_reason": "requires account authentication & private PII lookup",
+      "msg": "@AmazonHelp I am having trouble with my account. Amazon keeps deactivating my password and that I will be able to access my account and change my password in 5 hours. I changed my password and it is not letting me into my account. I have reset my password and it says not valid."
+    },
+    {
+      "thread_id": "442830",
+      "gold_intent": "missing_stolen_delivery",
+      "pred_intent": "promotions_gift_cards_policy",
+      "confidence": 0.6825,
+      "draft_reply": "Hello! Got it! Payments can't be split among multiple cards, but can be split between a card and an Amazon gift card. For more information, please refer here: https://t.co/50xV3afsST",
+      "escalation_reason": ": High-value item marked delivered but not received / Customer service refusal",
+      "msg": "@AmazonHelp Your Leadership advisor named \"Arun\" has lied to me. He failed to add the gift card amt of Rs.150 which was promised. Kindly listen to the call and confirm actions taken."
+    },
+    {
+      "thread_id": "253981",
+      "gold_intent": "return_refund_request",
+      "pred_intent": "return_refund_request",
+      "confidence": 0.6968,
+      "draft_reply": "Hello! We'd like to look into our options with you. Please reach out to us by phone or chat here: https://t.co/EKXRLsF8B2",
+      "escalation_reason": "financial refund or billing transaction dispute",
+      "msg": "@AmazonHelp Hello, I've been trying to return something for over a month. Contacted 3x, informed each time return is approved. Next step?"
+    },
+    {
+      "thread_id": "9129",
+      "gold_intent": "account_access_security",
+      "pred_intent": "account_access_security",
+      "confidence": 0.8627,
+      "draft_reply": "Hi Emma. I understand. You can use this link (which doesn't require a log in) to get in touch: https://t.co/zYVX1Qi29G",
+      "escalation_reason": "requires account authentication & private PII lookup",
+      "msg": "@AmazonHelp It looks as though someone has changed the email address linked to my acct &amp; I can no longer log in. Help!"
+    },
+    {
+      "thread_id": "19469",
+      "gold_intent": "prime_membership_billing",
+      "pred_intent": "prime_membership_billing",
+      "confidence": 0.794,
+      "draft_reply": "Hi please contact us here: https://t.co/R55eEQwSEs and a specialist will look into it for you.",
+      "escalation_reason": "Complex / sensitive / long-running or order-specific issue requiring human review",
+      "msg": "@AmazonHelp I was scammed. 6 orders, all sellers are gone and nothing send to me, how could I do now? how to stop my prime membership?"
+    },
+    {
+      "thread_id": "320361",
+      "gold_intent": "account_access_security",
+      "pred_intent": "account_access_security",
+      "confidence": 0.9312,
+      "draft_reply": "Hi Rosie- Can you report this to us directly via: https://t.co/FIW7Ec1Jny (It won't require you to sign in or anything)",
+      "escalation_reason": "Account security/possible compromise",
+      "msg": "@AmazonHelp hi, I\u2019ve had an email and I believe somebody has hacked into my account. They\u2019ve changed my email and password&amp; I can\u2019t access"
+    }
+  ],
+  "false_escalations": [
+    {
+      "thread_id": "26929",
+      "gold_intent": "delivery_delay_tracking",
+      "pred_intent": "delivery_delay_tracking",
+      "decision_reason": "Low intent classification confidence (0.39 < 0.60); query is ambiguous.",
+      "msg": "@AmazonHelp Hi, just curious as to why tracking details for my item haven't been updated. Can you help? https://t.co/Ko30E2efuK"
+    },
+    {
+      "thread_id": "542087",
+      "gold_intent": "other_miscellaneous_feedback",
+      "pred_intent": "prime_membership_billing",
+      "decision_reason": "Low intent classification confidence (0.22 < 0.60); query is ambiguous.",
+      "msg": "How can I pass on a compliment about a member of your staff? @115830 @AmazonHelp \ud83e\udd17"
+    },
+    {
+      "thread_id": "487646",
+      "gold_intent": "prime_membership_billing",
+      "pred_intent": "prime_membership_billing",
+      "decision_reason": "Insufficient historical evidence (top similarity: 0.11); lack of grounded resolution cases to guarantee answer correctness.",
+      "msg": "@AmazonHelp greetings, I just started my Amazon/Twitch Prime trial, but the confirmation email was in German (which is weird) and now I can't see my Prime Trial anywhere, as Amazone says I don't have a Prime membership?"
+    },
+    {
+      "thread_id": "325863",
+      "gold_intent": "delivery_delay_tracking",
+      "pred_intent": "delivery_delay_tracking",
+      "decision_reason": "Low intent classification confidence (0.50 < 0.60); query is ambiguous.",
+      "msg": "@AmazonHelp This still hasn't come 2 days after it was supposed to arrive, which was already a push back from last saturday. What's going on https://t.co/Y4zNQW1G6B"
+    },
+    {
+      "thread_id": "13189",
+      "gold_intent": "damaged_defective_wrong_item",
+      "pred_intent": "digital_devices_technical_support",
+      "decision_reason": "Low intent classification confidence (0.45 < 0.60); query is ambiguous.",
+      "msg": "Hi @AmazonHelp, I\u2019ve purchased something via your app and it\u2019s broken! How can I get it replaced?"
+    },
+    {
+      "thread_id": "91486",
+      "gold_intent": "delivery_delay_tracking",
+      "pred_intent": "delivery_delay_tracking",
+      "decision_reason": "Low intent classification confidence (0.40 < 0.60); query is ambiguous.",
+      "msg": "@AmazonHelp question, how come your courier failed to gain access to my property in spite of the fact I\u2019m currently sitting in my home and just tested my doorbell. Deliberately waiting for this delivery, not ideal!!!"
+    },
+    {
+      "thread_id": "498510",
+      "gold_intent": "damaged_defective_wrong_item",
+      "pred_intent": "return_refund_request",
+      "decision_reason": "Low intent classification confidence (0.47 < 0.60); query is ambiguous.",
+      "msg": "@AmazonHelp I know you have a returns policy but I am a bit concerned that I had to point out that it wasn't exactly safe to post a broken ceramic item back for a refund! (Didn't want the postie getting injured!)"
+    },
+    {
+      "thread_id": "376621",
+      "gold_intent": "other_miscellaneous_feedback",
+      "pred_intent": "other_miscellaneous_feedback",
+      "decision_reason": "Unstructured feedback, high negative sentiment, or complaint lacking standard automated resolution workflow.",
+      "msg": "Love how multiple DMs and emails and @AmazonHelp still doesn't answer me."
+    },
+    {
+      "thread_id": "597973",
+      "gold_intent": "delivery_delay_tracking",
+      "pred_intent": "digital_devices_technical_support",
+      "decision_reason": "Low intent classification confidence (0.29 < 0.60); query is ambiguous.",
+      "msg": "@115821 @AmazonHelp you guys don't care about your customers i bought a firestick last week with 1 day shipping and i still don't have it."
+    },
+    {
+      "thread_id": "64096",
+      "gold_intent": "account_access_security",
+      "pred_intent": "account_access_security",
+      "decision_reason": "Insufficient historical evidence (top similarity: 0.13); lack of grounded resolution cases to guarantee answer correctness.",
+      "msg": "@AmazonHelp Hi Amazon, I signed up this week and placed an order. Now when I try sign in, it says my email isn't registered? Please help!"
+    },
+    {
+      "thread_id": "489456",
+      "gold_intent": "other_miscellaneous_feedback",
+      "pred_intent": "damaged_defective_wrong_item",
+      "decision_reason": "Physical damage/wrong item dispute requiring damage inspection, photo verification, and manual replacement approval.",
+      "msg": "@AmazonHelp can you please explain why some presents (ordered for Children) are being delivered with no paper or box and just a delivery label slapped on? Not only has it completely ruined the surprise for my child but also led to some awkward questions about Father Christmas..."
+    },
+    {
+      "thread_id": "239491",
+      "gold_intent": "missing_stolen_delivery",
+      "pred_intent": "missing_stolen_delivery",
+      "decision_reason": "High-risk physical claim regarding missing/stolen package requiring internal carrier GPS verification and account lookup.",
+      "msg": "@AmazonHelp yo, where is my package ? it says delivered but i never got my package.."
+    },
+    {
+      "thread_id": "315022",
+      "gold_intent": "missing_stolen_delivery",
+      "pred_intent": "digital_devices_technical_support",
+      "decision_reason": "Insufficient historical evidence (top similarity: 0.09); lack of grounded resolution cases to guarantee answer correctness.",
+      "msg": "@AmazonHelp I have not received my order and the app days it's deliver. This is the second time I am facing this issue."
+    },
+    {
+      "thread_id": "555325",
+      "gold_intent": "delivery_delay_tracking",
+      "pred_intent": "delivery_delay_tracking",
+      "decision_reason": "Low intent classification confidence (0.33 < 0.60); query is ambiguous.",
+      "msg": "@AmazonHelp Order was delayed, for no reason. It's literally less than an hour away from me, and I have to wait until Monday. Nobody will do anything about it."
+    },
+    {
+      "thread_id": "227112",
+      "gold_intent": "other_miscellaneous_feedback",
+      "pred_intent": "other_miscellaneous_feedback",
+      "decision_reason": "Unstructured feedback, high negative sentiment, or complaint lacking standard automated resolution workflow.",
+      "msg": "@AmazonHelp I sent you a DM, can you help?"
+    },
+    {
+      "thread_id": "352905",
+      "gold_intent": "prime_membership_billing",
+      "pred_intent": "damaged_defective_wrong_item",
+      "decision_reason": "Physical damage/wrong item dispute requiring damage inspection, photo verification, and manual replacement approval.",
+      "msg": "@AmazonHelp Sir, how you can send me subscription item on one time purchase rate, after numerous reminders in these 2 days your side response is pathetic. After subscribing, rarely i see the amount of subscribed product you send."
+    },
+    {
+      "thread_id": "168012",
+      "gold_intent": "other_miscellaneous_feedback",
+      "pred_intent": "other_miscellaneous_feedback",
+      "decision_reason": "Unstructured feedback, high negative sentiment, or complaint lacking standard automated resolution workflow.",
+      "msg": "@AmazonHelp \nWhat can i do? If i want to start delivery providing business with amazon .. because already i have tried alot of times to call Amazon support team and customer care, Kindly give me the information about ATS and procedures to start the business..."
+    },
+    {
+      "thread_id": "509365",
+      "gold_intent": "damaged_defective_wrong_item",
+      "pred_intent": "damaged_defective_wrong_item",
+      "decision_reason": "Physical damage/wrong item dispute requiring damage inspection, photo verification, and manual replacement approval.",
+      "msg": "@AmazonHelp Serious fail when the box I ordered was damaged before shipping! As you can see nothing sharp in the box to create a hole. \n#CustomerExperience https://t.co/kpM3xMtmb7"
+    },
+    {
+      "thread_id": "566588",
+      "gold_intent": "delivery_delay_tracking",
+      "pred_intent": "prime_membership_billing",
+      "decision_reason": "Insufficient historical evidence (top similarity: 0.10); lack of grounded resolution cases to guarantee answer correctness.",
+      "msg": "@AmazonHelp what is the point of being an Amazon Prime member during the holidays when packages always seem to get delayed?!"
+    },
+    {
+      "thread_id": "513476",
+      "gold_intent": "digital_devices_technical_support",
+      "pred_intent": "digital_devices_technical_support",
+      "decision_reason": "Low intent classification confidence (0.51 < 0.60); query is ambiguous.",
+      "msg": "hey @AmazonHelp, i told my Firestick to play Elf, and it asked me to buy \"Elf - With Special Features.\" I thought I already owned it, but I paid another $20. Started to play, but then located my copy of Elf, without special features,  which I also own through Amazon. Help?"
+    }
+  ]
+}

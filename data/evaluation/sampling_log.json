@@ -1,0 +1,56 @@
+{
+  "random_seed": 42,
+  "target_total": 200,
+  "sampling_method": "Stratified random sampling across 9 candidate intent clusters and 2 evidence tiers (usable vs partially_usable).",
+  "labeling_protocol": "Blind independent human labeling. All gold_* fields are initialized BLANK. The annotator reads only customer_message to prevent anchoring bias.",
+  "strata_counts": {
+    "delivery_delay_tracking": {
+      "usable_available": 19,
+      "partially_available": 418
+    },
+    "missing_stolen_delivery": {
+      "usable_available": 5,
+      "partially_available": 108
+    },
+    "damaged_defective_wrong_item": {
+      "usable_available": 9,
+      "partially_available": 196
+    },
+    "return_refund_request": {
+      "usable_available": 23,
+      "partially_available": 379
+    },
+    "prime_membership_billing": {
+      "usable_available": 5,
+      "partially_available": 144
+    },
+    "account_access_security": {
+      "usable_available": 9,
+      "partially_available": 105
+    },
+    "digital_devices_technical_support": {
+      "usable_available": 15,
+      "partially_available": 257
+    },
+    "promotions_gift_cards_policy": {
+      "usable_available": 9,
+      "partially_available": 122
+    },
+    "other_miscellaneous_feedback": {
+      "usable_available": 134,
+      "partially_available": 2982
+    }
+  },
+  "allocated_counts": {
+    "delivery_delay_tracking": 22,
+    "missing_stolen_delivery": 22,
+    "damaged_defective_wrong_item": 22,
+    "return_refund_request": 22,
+    "prime_membership_billing": 22,
+    "account_access_security": 22,
+    "digital_devices_technical_support": 22,
+    "promotions_gift_cards_policy": 22,
+    "other_miscellaneous_feedback": 22
+  },
+  "actual_sampled_total": 198
+}

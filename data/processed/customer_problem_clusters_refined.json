@@ -1,0 +1,514 @@
+{
+  "cluster_0": {
+    "cluster_id": 0,
+    "count": 287,
+    "percentage": 5.81,
+    "top_terms": [
+      "ordered",
+      "beta",
+      "pre",
+      "pre ordered",
+      "battlefront",
+      "code",
+      "beta code",
+      "received",
+      "haven",
+      "arrived"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "271596",
+        "tweet_id": 271596,
+        "author_id": "178041",
+        "raw_text": "@AmazonHelp I pre-ordered Battle Front 2. How do I get the beta code?",
+        "cleaned_text": "I pre-ordered Battle Front 2. How do I get the beta code?",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "215037",
+        "tweet_id": 215037,
+        "author_id": "167093",
+        "raw_text": "@AmazonHelp hi i pre ordered star wars battlefront 2 and haven’t received my beta code",
+        "cleaned_text": "hi i pre ordered star wars battlefront 2 and haven’t received my beta code",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "227077",
+        "tweet_id": 227077,
+        "author_id": "170164",
+        "raw_text": "@AmazonHelp hello I've pre ordered STAR wars battlefront 2 but not had my beta code can you help",
+        "cleaned_text": "hello I've pre ordered STAR wars battlefront 2 but not had my beta code can you help",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "210426",
+        "tweet_id": 210426,
+        "author_id": "165807",
+        "raw_text": "@AmazonHelp I pre ordered Star Wars battlefront 2 and I still haven't received my beta code for Xbox 1. Can you help?",
+        "cleaned_text": "I pre ordered Star Wars battlefront 2 and I still haven't received my beta code for Xbox 1. Can you help?",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "244714",
+        "tweet_id": 244714,
+        "author_id": "174124",
+        "raw_text": "@AmazonHelp hey I pre ordered Star Wars battlefront 2 and I still haven't received my beta code for Xbox one. Can you help out?",
+        "cleaned_text": "hey I pre ordered Star Wars battlefront 2 and I still haven't received my beta code for Xbox one. Can you help out?",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      }
+    ]
+  },
+  "cluster_1": {
+    "cluster_id": 1,
+    "count": 525,
+    "percentage": 10.63,
+    "top_terms": [
+      "order",
+      "placed",
+      "cancelled",
+      "received",
+      "cancel",
+      "delivery",
+      "placed order",
+      "cancel order",
+      "shipped",
+      "today"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "2565",
+        "tweet_id": 2565,
+        "author_id": "116319",
+        "raw_text": "@AmazonHelp Where is my order? https://t.co/pXnKSCo2ex",
+        "cleaned_text": "Where is my order?",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "420039",
+        "tweet_id": 420039,
+        "author_id": "215139",
+        "raw_text": "@AmazonHelp where's my order? 026-5974794-2685140",
+        "cleaned_text": "where's my order? 026-5974794-2685140",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "294860",
+        "tweet_id": 294860,
+        "author_id": "186220",
+        "raw_text": "@AmazonHelp Where's my order?!!!!!",
+        "cleaned_text": "Where's my order?!!!!!",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "150468",
+        "tweet_id": 150468,
+        "author_id": "150318",
+        "raw_text": "@AmazonHelp why my order is not deliverd yet ? Order no \n402-5451856-1923548 @115850 @137341",
+        "cleaned_text": "why my order is not deliverd yet ? Order no 402-5451856-1923548",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "234146",
+        "tweet_id": 234146,
+        "author_id": "171756",
+        "raw_text": "@AmazonHelp I HAVE AN ORDER I NEED TO SEND BACK",
+        "cleaned_text": "I HAVE AN ORDER I NEED TO SEND BACK",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      }
+    ]
+  },
+  "cluster_2": {
+    "cluster_id": 2,
+    "count": 403,
+    "percentage": 8.16,
+    "top_terms": [
+      "prime",
+      "membership",
+      "prime membership",
+      "member",
+      "prime member",
+      "pay",
+      "account",
+      "days",
+      "point",
+      "delivery"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "403068",
+        "tweet_id": 403068,
+        "author_id": "145372",
+        "raw_text": "Dear @AmazonHelp, why am I “Prime” on @115830 but not on @116316? I have a valid #Prime membership on .co.uk.",
+        "cleaned_text": "Dear , why am I “Prime” on but not on ? I have a valid #Prime membership on .co.uk.",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "284825",
+        "tweet_id": 284825,
+        "author_id": "183851",
+        "raw_text": "@AmazonHelp hi  i pay 130 $ for prime membership by mistake can you help meeee ?",
+        "cleaned_text": "hi i pay 130 $ for prime membership by mistake can you help meeee ?",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "543548",
+        "tweet_id": 543548,
+        "author_id": "246247",
+        "raw_text": "So @116090 @AmazonHelp  what's the point of my Prime membership? :( https://t.co/8wjoqWMaWM",
+        "cleaned_text": "So what's the point of my Prime membership? :(",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "149268",
+        "tweet_id": 149268,
+        "author_id": "150002",
+        "raw_text": "@AmazonHelp guess what? Still not here. Prime membership really is wonderful. #sarcasm",
+        "cleaned_text": "guess what? Still not here. Prime membership really is wonderful. #sarcasm",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "595765",
+        "tweet_id": 595765,
+        "author_id": "261170",
+        "raw_text": "@AmazonHelp glad I pay for my Prime Membership and don't get my 2 day guaranteed shipping. Doubting if prime is even worth it anymore... https://t.co/7E0nUcAUIl",
+        "cleaned_text": "glad I pay for my Prime Membership and don't get my 2 day guaranteed shipping. Doubting if prime is even worth it anymore...",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      }
+    ]
+  },
+  "cluster_3": {
+    "cluster_id": 3,
+    "count": 388,
+    "percentage": 7.86,
+    "top_terms": [
+      "delivered",
+      "package",
+      "parcel",
+      "today",
+      "says",
+      "order",
+      "delivered today",
+      "parcel delivered",
+      "package delivered",
+      "supposed"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "394062",
+        "tweet_id": 394062,
+        "author_id": "167356",
+        "raw_text": "@AmazonHelp  still my parcel not delivered...",
+        "cleaned_text": "still my parcel not delivered...",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "55059",
+        "tweet_id": 55059,
+        "author_id": "128483",
+        "raw_text": "@115830 @AmazonHelp I have an order that says delivered yesterday by amazon shipping but it hasn’t been delivered. What can I do?",
+        "cleaned_text": "I have an order that says delivered yesterday by amazon shipping but it hasn’t been delivered. What can I do?",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "286845",
+        "tweet_id": 286845,
+        "author_id": "184344",
+        "raw_text": "@AmazonHelp Your Amazon.in order #6954724 has been delivered. Wondering where is the order has been delivered to. Check where is it?",
+        "cleaned_text": "Your Amazon.in order #6954724 has been delivered. Wondering where is the order has been delivered to. Check where is it?",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "510260",
+        "tweet_id": 510260,
+        "author_id": "237232",
+        "raw_text": "@AmazonHelp Hey something i ordered didnt get delivered today even though the tracker says it was just delivered at 5:14pm",
+        "cleaned_text": "Hey something i ordered didnt get delivered today even though the tracker says it was just delivered at 5:14pm",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "483876",
+        "tweet_id": 483876,
+        "author_id": "230106",
+        "raw_text": "@AmazonHelp Order not delivered still showing as delivered.",
+        "cleaned_text": "Order not delivered still showing as delivered.",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      }
+    ]
+  },
+  "cluster_4": {
+    "cluster_id": 4,
+    "count": 2318,
+    "percentage": 46.93,
+    "top_terms": [
+      "account",
+      "email",
+      "return",
+      "package",
+      "time",
+      "don",
+      "product",
+      "ve",
+      "app",
+      "amp"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "235746",
+        "tweet_id": 235746,
+        "author_id": "172148",
+        "raw_text": "@AmazonHelp I need help restoring an account? Trying to change an email address and it says it’s already in use",
+        "cleaned_text": "I need help restoring an account? Trying to change an email address and it says it’s already in use",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "197728",
+        "tweet_id": 197728,
+        "author_id": "162504",
+        "raw_text": "@AmazonHelp trying to log in on the app &amp; on the normal website and keep getting this and a random email address keeps coming up on the app? https://t.co/IaCLLx9bJf",
+        "cleaned_text": "trying to log in on the app &amp; on the normal website and keep getting this and a random email address keeps coming up on the app?",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "38176",
+        "tweet_id": 38176,
+        "author_id": "124294",
+        "raw_text": "@AmazonHelp someone has used my email address for their amazon account, what do I do?",
+        "cleaned_text": "someone has used my email address for their amazon account, what do I do?",
+        "tier": "usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "361714",
+        "tweet_id": 361714,
+        "author_id": "181613",
+        "raw_text": "Hi @AmazonHelp, I just bought a product, money deducted &amp; now email comes saying I have product limit, cannot buy. Help?",
+        "cleaned_text": "Hi , I just bought a product, money deducted &amp; now email comes saying I have product limit, cannot buy. Help?",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "606215",
+        "tweet_id": 606215,
+        "author_id": "264070",
+        "raw_text": "@AmazonHelp I'm having trouble with \"Phone Verification\" to create a new account, the message says to ask for help in the support area that need to be logged in to do it. Is there a way to get support to create an account when you don't already have an account? I'm from Brazil",
+        "cleaned_text": "I'm having trouble with \"Phone Verification\" to create a new account, the message says to ask for help in the support area that need to be logged in to do it. Is there a way to get support to create an account when you don't already have an account? I'm from Brazil",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      }
+    ]
+  },
+  "cluster_5": {
+    "cluster_id": 5,
+    "count": 198,
+    "percentage": 4.01,
+    "top_terms": [
+      "refund",
+      "order",
+      "product",
+      "received",
+      "money",
+      "return",
+      "item",
+      "refund money",
+      "received refund",
+      "days"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "344880",
+        "tweet_id": 344880,
+        "author_id": "196048",
+        "raw_text": "@AmazonHelp got my refund. Thank you for all your help",
+        "cleaned_text": "got my refund. Thank you for all your help",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "327076",
+        "tweet_id": 327076,
+        "author_id": "193944",
+        "raw_text": "@AmazonHelp how do I get a refund for a service appointment one of your technicians bailed on?",
+        "cleaned_text": "how do I get a refund for a service appointment one of your technicians bailed on?",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "15700",
+        "tweet_id": 15700,
+        "author_id": "119452",
+        "raw_text": "Hey @115850 @AmazonHelp I need an update on my refund! Can you help?",
+        "cleaned_text": "Hey I need an update on my refund! Can you help?",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "598016",
+        "tweet_id": 598016,
+        "author_id": "257949",
+        "raw_text": "Y’all are taking forever to refund my movey @115821 @AmazonHelp",
+        "cleaned_text": "Y’all are taking forever to refund my movey",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "34577",
+        "tweet_id": 34577,
+        "author_id": "123490",
+        "raw_text": "@AmazonHelp How does one get a refund on a never delivered package when you require us to send it back for the refund?",
+        "cleaned_text": "How does one get a refund on a never delivered package when you require us to send it back for the refund?",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      }
+    ]
+  },
+  "cluster_6": {
+    "cluster_id": 6,
+    "count": 546,
+    "percentage": 11.05,
+    "top_terms": [
+      "delivery",
+      "day",
+      "day delivery",
+      "shipping",
+      "day shipping",
+      "prime",
+      "today",
+      "package",
+      "days",
+      "deliver"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "247050",
+        "tweet_id": 247050,
+        "author_id": "174683",
+        "raw_text": "@AmazonHelp Hello can you help me with a delivery?",
+        "cleaned_text": "Hello can you help me with a delivery?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "585742",
+        "tweet_id": 585742,
+        "author_id": "258289",
+        "raw_text": "@AmazonHelp why dont I get next day delivery anymore with prime?",
+        "cleaned_text": "why dont I get next day delivery anymore with prime?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "597977",
+        "tweet_id": 597977,
+        "author_id": "256947",
+        "raw_text": "I call bulls**t. Why advertise next day delivery on Prime if that’s not what you get? @115830 @AmazonHelp https://t.co/MvkEZ2HYOO",
+        "cleaned_text": "I call bulls**t. Why advertise next day delivery on Prime if that’s not what you get?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "207557",
+        "tweet_id": 207557,
+        "author_id": "165090",
+        "raw_text": "@AmazonHelp how does amazon give next day delivery if the seller is from china?",
+        "cleaned_text": "how does amazon give next day delivery if the seller is from china?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "295892",
+        "tweet_id": 295892,
+        "author_id": "186466",
+        "raw_text": "@AmazonHelp what's the craic with paying next day delivery and it not being here ? Is this a joke ?",
+        "cleaned_text": "what's the craic with paying next day delivery and it not being here ? Is this a joke ?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      }
+    ]
+  },
+  "cluster_7": {
+    "cluster_id": 7,
+    "count": 274,
+    "percentage": 5.55,
+    "top_terms": [
+      "customer",
+      "service",
+      "customer service",
+      "care",
+      "customer care",
+      "worst",
+      "support",
+      "worst customer",
+      "customer support",
+      "experience"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "180720",
+        "tweet_id": 180720,
+        "author_id": "158476",
+        "raw_text": "The apathy exhibited by @115850 's customer service is not just deplorable but warrants retribution. @AmazonHelp @127187 @115821",
+        "cleaned_text": "The apathy exhibited by 's customer service is not just deplorable but warrants retribution.",
+        "tier": "partially_usable",
+        "cluster_id": 7
+      },
+      {
+        "thread_id": "574032",
+        "tweet_id": 574032,
+        "author_id": "254980",
+        "raw_text": "Please help me with your customer service @115850 @AmazonHelp",
+        "cleaned_text": "Please help me with your customer service",
+        "tier": "partially_usable",
+        "cluster_id": 7
+      },
+      {
+        "thread_id": "283993",
+        "tweet_id": 283993,
+        "author_id": "183641",
+        "raw_text": "As always, outstanding service from @115821 @AmazonHelp. Their customer service is the best out there!",
+        "cleaned_text": "As always, outstanding service from . Their customer service is the best out there!",
+        "tier": "partially_usable",
+        "cluster_id": 7
+      },
+      {
+        "thread_id": "391579",
+        "tweet_id": 391579,
+        "author_id": "208720",
+        "raw_text": "@AmazonHelp ... please help as the customer service are not helpful any more!!",
+        "cleaned_text": "... please help as the customer service are not helpful any more!!",
+        "tier": "partially_usable",
+        "cluster_id": 7
+      },
+      {
+        "thread_id": "83402",
+        "tweet_id": 83402,
+        "author_id": "134323",
+        "raw_text": "@AmazonHelp why is your customer service so awful",
+        "cleaned_text": "why is your customer service so awful",
+        "tier": "partially_usable",
+        "cluster_id": 7
+      }
+    ]
+  }
+}

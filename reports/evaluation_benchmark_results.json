@@ -1,0 +1,461 @@
+{
+  "Baseline 1 (Zero-Shot / Ungrounded)": {
+    "intent_metrics": {
+      "accuracy": 0.5556,
+      "macro_f1": 0.5527,
+      "macro_precision": 0.6387,
+      "macro_recall": 0.5694,
+      "weighted_f1": 0.5517,
+      "per_intent": {
+        "delivery_delay_tracking": {
+          "precision": 0.5,
+          "recall": 0.56,
+          "f1": 0.5283,
+          "support": 25
+        },
+        "missing_stolen_delivery": {
+          "precision": 0.375,
+          "recall": 0.12,
+          "f1": 0.1818,
+          "support": 25
+        },
+        "damaged_defective_wrong_item": {
+          "precision": 0.9444,
+          "recall": 0.7083,
+          "f1": 0.8095,
+          "support": 24
+        },
+        "return_refund_request": {
+          "precision": 0.8095,
+          "recall": 0.7391,
+          "f1": 0.7727,
+          "support": 23
+        },
+        "prime_membership_billing": {
+          "precision": 0.5,
+          "recall": 0.9444,
+          "f1": 0.6538,
+          "support": 18
+        },
+        "account_access_security": {
+          "precision": 0.7,
+          "recall": 0.6087,
+          "f1": 0.6512,
+          "support": 23
+        },
+        "digital_devices_technical_support": {
+          "precision": 0.8462,
+          "recall": 0.55,
+          "f1": 0.6667,
+          "support": 20
+        },
+        "promotions_gift_cards_policy": {
+          "precision": 0.8333,
+          "recall": 0.2273,
+          "f1": 0.3571,
+          "support": 22
+        },
+        "other_miscellaneous_feedback": {
+          "precision": 0.24,
+          "recall": 0.6667,
+          "f1": 0.3529,
+          "support": 18
+        }
+      }
+    },
+    "escalation_metrics": {
+      "accuracy": 0.6111,
+      "false_auto_handle_rate": 0.8857,
+      "false_auto_handle_count": 31,
+      "false_escalation_rate": 0.2822,
+      "false_escalation_count": 46,
+      "auto_handle": {
+        "precision": 0.7905,
+        "recall": 0.7178,
+        "f1": 0.7524,
+        "support": 163
+      },
+      "escalate": {
+        "precision": 0.08,
+        "recall": 0.1143,
+        "f1": 0.0941,
+        "support": 35
+      }
+    },
+    "safety_violations_count": 24,
+    "safety_violation_rate": 0.1212,
+    "predictions_sample": [
+      {
+        "message": "@AmazonHelp Hi, logged on to firestick, can I also log on to mobile app at same time? Get this error msg https://t.co/qZE0dIVqQi",
+        "gold_intent": "digital_devices_technical_support",
+        "predicted_intent": "digital_devices_technical_support",
+        "gold_action": "auto_handle",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Standard automated guidance provided.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp Hi, just curious as to why tracking details for my item haven't been updated. Can you help? https://t.co/Ko30E2efuK",
+        "gold_intent": "delivery_delay_tracking",
+        "predicted_intent": "delivery_delay_tracking",
+        "gold_action": "auto_handle",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Standard automated guidance provided.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "How can I pass on a compliment about a member of your staff? @115830 @AmazonHelp \ud83e\udd17",
+        "gold_intent": "other_miscellaneous_feedback",
+        "predicted_intent": "other_miscellaneous_feedback",
+        "gold_action": "auto_handle",
+        "predicted_action": "escalate",
+        "decision_reason": "Low intent classification confidence.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp so I ordered something 2 weeks ago paid 56 bucks for prime shipping and I still haven't gotten it???? I want my money back",
+        "gold_intent": "return_refund_request",
+        "predicted_intent": "return_refund_request",
+        "gold_action": "escalate",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Intent matches refund inquiry; draft provides instant auto-resolution.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp greetings, I just started my Amazon/Twitch Prime trial, but the confirmation email was in German (which is weird) and now I can't see my Prime Trial anywhere, as Amazone says I don't have a Prime membership?",
+        "gold_intent": "prime_membership_billing",
+        "predicted_intent": "prime_membership_billing",
+        "gold_action": "auto_handle",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Standard automated guidance provided.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      }
+    ]
+  },
+  "Baseline 2 (Classical IR / Verbatim)": {
+    "intent_metrics": {
+      "accuracy": 0.7576,
+      "macro_f1": 0.7549,
+      "macro_precision": 0.7592,
+      "macro_recall": 0.7573,
+      "weighted_f1": 0.7607,
+      "per_intent": {
+        "delivery_delay_tracking": {
+          "precision": 0.8696,
+          "recall": 0.8,
+          "f1": 0.8333,
+          "support": 25
+        },
+        "missing_stolen_delivery": {
+          "precision": 0.7619,
+          "recall": 0.64,
+          "f1": 0.6957,
+          "support": 25
+        },
+        "damaged_defective_wrong_item": {
+          "precision": 0.7727,
+          "recall": 0.7083,
+          "f1": 0.7391,
+          "support": 24
+        },
+        "return_refund_request": {
+          "precision": 0.8571,
+          "recall": 0.7826,
+          "f1": 0.8182,
+          "support": 23
+        },
+        "prime_membership_billing": {
+          "precision": 0.6667,
+          "recall": 0.7778,
+          "f1": 0.7179,
+          "support": 18
+        },
+        "account_access_security": {
+          "precision": 0.9545,
+          "recall": 0.913,
+          "f1": 0.9333,
+          "support": 23
+        },
+        "digital_devices_technical_support": {
+          "precision": 0.6667,
+          "recall": 0.8,
+          "f1": 0.7273,
+          "support": 20
+        },
+        "promotions_gift_cards_policy": {
+          "precision": 0.7619,
+          "recall": 0.7273,
+          "f1": 0.7442,
+          "support": 22
+        },
+        "other_miscellaneous_feedback": {
+          "precision": 0.5217,
+          "recall": 0.6667,
+          "f1": 0.5854,
+          "support": 18
+        }
+      }
+    },
+    "escalation_metrics": {
+      "accuracy": 0.3687,
+      "false_auto_handle_rate": 0.2571,
+      "false_auto_handle_count": 9,
+      "false_escalation_rate": 0.7117,
+      "false_escalation_count": 116,
+      "auto_handle": {
+        "precision": 0.8393,
+        "recall": 0.2883,
+        "f1": 0.4292,
+        "support": 163
+      },
+      "escalate": {
+        "precision": 0.1831,
+        "recall": 0.7429,
+        "f1": 0.2938,
+        "support": 35
+      }
+    },
+    "safety_violations_count": 0,
+    "safety_violation_rate": 0.0,
+    "predictions_sample": [
+      {
+        "message": "@AmazonHelp Hi, logged on to firestick, can I also log on to mobile app at same time? Get this error msg https://t.co/qZE0dIVqQi",
+        "gold_intent": "digital_devices_technical_support",
+        "predicted_intent": "digital_devices_technical_support",
+        "gold_action": "auto_handle",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Top retrieval similarity (1.000) above threshold.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp Hi, just curious as to why tracking details for my item haven't been updated. Can you help? https://t.co/Ko30E2efuK",
+        "gold_intent": "delivery_delay_tracking",
+        "predicted_intent": "delivery_delay_tracking",
+        "gold_action": "auto_handle",
+        "predicted_action": "escalate",
+        "decision_reason": "Top retrieval similarity (0.071) below threshold (0.25).",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "How can I pass on a compliment about a member of your staff? @115830 @AmazonHelp \ud83e\udd17",
+        "gold_intent": "other_miscellaneous_feedback",
+        "predicted_intent": "prime_membership_billing",
+        "gold_action": "auto_handle",
+        "predicted_action": "escalate",
+        "decision_reason": "Top retrieval similarity (0.051) below threshold (0.25).",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp so I ordered something 2 weeks ago paid 56 bucks for prime shipping and I still haven't gotten it???? I want my money back",
+        "gold_intent": "return_refund_request",
+        "predicted_intent": "return_refund_request",
+        "gold_action": "escalate",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Top retrieval similarity (0.355) above threshold.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp greetings, I just started my Amazon/Twitch Prime trial, but the confirmation email was in German (which is weird) and now I can't see my Prime Trial anywhere, as Amazone says I don't have a Prime membership?",
+        "gold_intent": "prime_membership_billing",
+        "predicted_intent": "prime_membership_billing",
+        "gold_action": "auto_handle",
+        "predicted_action": "escalate",
+        "decision_reason": "Top retrieval similarity (0.107) below threshold (0.25).",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      }
+    ]
+  },
+  "Final Agent Pipeline (Ours)": {
+    "intent_metrics": {
+      "accuracy": 0.7576,
+      "macro_f1": 0.7549,
+      "macro_precision": 0.7592,
+      "macro_recall": 0.7573,
+      "weighted_f1": 0.7607,
+      "per_intent": {
+        "delivery_delay_tracking": {
+          "precision": 0.8696,
+          "recall": 0.8,
+          "f1": 0.8333,
+          "support": 25
+        },
+        "missing_stolen_delivery": {
+          "precision": 0.7619,
+          "recall": 0.64,
+          "f1": 0.6957,
+          "support": 25
+        },
+        "damaged_defective_wrong_item": {
+          "precision": 0.7727,
+          "recall": 0.7083,
+          "f1": 0.7391,
+          "support": 24
+        },
+        "return_refund_request": {
+          "precision": 0.8571,
+          "recall": 0.7826,
+          "f1": 0.8182,
+          "support": 23
+        },
+        "prime_membership_billing": {
+          "precision": 0.6667,
+          "recall": 0.7778,
+          "f1": 0.7179,
+          "support": 18
+        },
+        "account_access_security": {
+          "precision": 0.9545,
+          "recall": 0.913,
+          "f1": 0.9333,
+          "support": 23
+        },
+        "digital_devices_technical_support": {
+          "precision": 0.6667,
+          "recall": 0.8,
+          "f1": 0.7273,
+          "support": 20
+        },
+        "promotions_gift_cards_policy": {
+          "precision": 0.7619,
+          "recall": 0.7273,
+          "f1": 0.7442,
+          "support": 22
+        },
+        "other_miscellaneous_feedback": {
+          "precision": 0.5217,
+          "recall": 0.6667,
+          "f1": 0.5854,
+          "support": 18
+        }
+      }
+    },
+    "escalation_metrics": {
+      "accuracy": 0.3182,
+      "false_auto_handle_rate": 0.2,
+      "false_auto_handle_count": 7,
+      "false_escalation_rate": 0.7853,
+      "false_escalation_count": 128,
+      "auto_handle": {
+        "precision": 0.8333,
+        "recall": 0.2147,
+        "f1": 0.3415,
+        "support": 163
+      },
+      "escalate": {
+        "precision": 0.1795,
+        "recall": 0.8,
+        "f1": 0.2932,
+        "support": 35
+      }
+    },
+    "safety_violations_count": 0,
+    "safety_violation_rate": 0.0,
+    "predictions_sample": [
+      {
+        "message": "@AmazonHelp Hi, logged on to firestick, can I also log on to mobile app at same time? Get this error msg https://t.co/qZE0dIVqQi",
+        "gold_intent": "digital_devices_technical_support",
+        "predicted_intent": "digital_devices_technical_support",
+        "gold_action": "auto_handle",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Confident intent (digital_devices_technical_support, conf: 0.71) with verified historical procedural guidance (similarity: 1.00).",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp Hi, just curious as to why tracking details for my item haven't been updated. Can you help? https://t.co/Ko30E2efuK",
+        "gold_intent": "delivery_delay_tracking",
+        "predicted_intent": "delivery_delay_tracking",
+        "gold_action": "auto_handle",
+        "predicted_action": "escalate",
+        "decision_reason": "Low intent classification confidence (0.39 < 0.60); query is ambiguous.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "How can I pass on a compliment about a member of your staff? @115830 @AmazonHelp \ud83e\udd17",
+        "gold_intent": "other_miscellaneous_feedback",
+        "predicted_intent": "prime_membership_billing",
+        "gold_action": "auto_handle",
+        "predicted_action": "escalate",
+        "decision_reason": "Low intent classification confidence (0.22 < 0.60); query is ambiguous.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp so I ordered something 2 weeks ago paid 56 bucks for prime shipping and I still haven't gotten it???? I want my money back",
+        "gold_intent": "return_refund_request",
+        "predicted_intent": "return_refund_request",
+        "gold_action": "escalate",
+        "predicted_action": "auto_handle",
+        "decision_reason": "Confident intent (return_refund_request, conf: 0.63) with verified historical procedural guidance (similarity: 0.35).",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      },
+      {
+        "message": "@AmazonHelp greetings, I just started my Amazon/Twitch Prime trial, but the confirmation email was in German (which is weird) and now I can't see my Prime Trial anywhere, as Amazone says I don't have a Prime membership?",
+        "gold_intent": "prime_membership_billing",
+        "predicted_intent": "prime_membership_billing",
+        "gold_action": "auto_handle",
+        "predicted_action": "escalate",
+        "decision_reason": "Insufficient historical evidence (top similarity: 0.11); lack of grounded resolution cases to guarantee answer correctness.",
+        "safety": {
+          "unexecuted_action_claim": false,
+          "public_pii_solicitation": false,
+          "is_safe": true
+        }
+      }
+    ]
+  }
+}

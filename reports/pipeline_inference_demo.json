@@ -1,0 +1,102 @@
+[
+  {
+    "query": "Where do I send my package now that it is ready for return and refund? No return instructions in email.",
+    "response": {
+      "intent": "return_refund_request",
+      "intent_confidence": 0.9256,
+      "retrieved_cases": [
+        {
+          "thread_id": "545725",
+          "similarity": 0.6794
+        },
+        {
+          "thread_id": "601305",
+          "similarity": 0.0811
+        }
+      ],
+      "draft_reply": "Hello! Thanks for reaching out today! From your picture it looks like the label is for Pass My Parcel. When there's a location near you, you'll get this option when setting up a return. Learn more here: https://t.co/qayAJDsxRW",
+      "decision": "auto_handle",
+      "decision_reason": "Confident intent (return_refund_request, conf: 0.93) with verified historical procedural guidance (similarity: 0.68)."
+    }
+  },
+  {
+    "query": "Tracking says delivered to resident 2 hours ago, but nobody was home and porch is empty! Was it stolen??",
+    "response": {
+      "intent": "missing_stolen_delivery",
+      "intent_confidence": 0.9617,
+      "retrieved_cases": [
+        {
+          "thread_id": "96750",
+          "similarity": 0.1498
+        },
+        {
+          "thread_id": "503418",
+          "similarity": 0.1263
+        }
+      ],
+      "draft_reply": "We apologize for the inconvenience with your order. Because this issue requires direct verification of your account and carrier details which are not available here, please connect securely with our Customer Support team via your Amazon account under 'Help' > 'Contact Us'.",
+      "decision": "escalate",
+      "decision_reason": "High-risk physical claim regarding missing/stolen package requiring internal carrier GPS verification and account lookup."
+    }
+  },
+  {
+    "query": "The ceramic coffee mug arrived in a thousand broken pieces completely smashed in the envelope!",
+    "response": {
+      "intent": "damaged_defective_wrong_item",
+      "intent_confidence": 0.8934,
+      "retrieved_cases": [
+        {
+          "thread_id": "498510",
+          "similarity": 0.0915
+        },
+        {
+          "thread_id": "509365",
+          "similarity": 0.0632
+        }
+      ],
+      "draft_reply": "We apologize for the inconvenience with your order. Because this issue requires direct verification of your account and carrier details which are not available here, please connect securely with our Customer Support team via your Amazon account under 'Help' > 'Contact Us'.",
+      "decision": "escalate",
+      "decision_reason": "Physical damage/wrong item dispute requiring damage inspection, photo verification, and manual replacement approval."
+    }
+  },
+  {
+    "query": "How do I cancel auto-renew on my Prime membership so I do not get charged next month?",
+    "response": {
+      "intent": "prime_membership_billing",
+      "intent_confidence": 0.9047,
+      "retrieved_cases": [
+        {
+          "thread_id": "19469",
+          "similarity": 0.189
+        },
+        {
+          "thread_id": "378463",
+          "similarity": 0.1063
+        }
+      ],
+      "draft_reply": "Hi please contact us here: https://t.co/R55eEQwSEs and a specialist will look into it for you.",
+      "decision": "auto_handle",
+      "decision_reason": "Confident intent (prime_membership_billing, conf: 0.90) with verified historical procedural guidance (similarity: 0.19)."
+    }
+  },
+  {
+    "query": "Your customer service is completely useless and rude. No one helps me!",
+    "response": {
+      "intent": "other_miscellaneous_feedback",
+      "intent_confidence": 0.3816,
+      "retrieved_cases": [
+        {
+          "thread_id": "442976",
+          "similarity": 0.1988
+        },
+        {
+          "thread_id": "498358",
+          "similarity": 0.0961
+        }
+      ],
+      "draft_reply": "Hello! Please get in touch here:  https://t.co/zYVX1QzD1e you won't need to sign in and  we'll assist with this.",
+      "decision": "escalate",
+      "decision_reason": "Unstructured feedback, high negative sentiment, or complaint lacking standard automated resolution workflow."
+    }
+  }
+]

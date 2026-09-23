@@ -1,0 +1,450 @@
+{
+  "cluster_0": {
+    "cluster_id": 0,
+    "count": 324,
+    "percentage": 6.56,
+    "top_terms": [
+      "day",
+      "delivery",
+      "day delivery",
+      "prime",
+      "shipping",
+      "day shipping",
+      "prime day",
+      "days",
+      "order",
+      "ordered"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "375281",
+        "tweet_id": 375281,
+        "author_id": "204994",
+        "raw_text": "@115821 @AmazonHelp So much for one day shipping!",
+        "cleaned_text": "So much for one day shipping!",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "200028",
+        "tweet_id": 200028,
+        "author_id": "163189",
+        "raw_text": "@AmazonHelp how is this Two-Day shipping? https://t.co/8qGljRvrMZ",
+        "cleaned_text": "how is this Two-Day shipping?",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "308923",
+        "tweet_id": 308923,
+        "author_id": "189762",
+        "raw_text": "@AmazonHelp I paid $52 to get same-day shipping and it’s not even here #wasteofmoney",
+        "cleaned_text": "I paid $52 to get same-day shipping and it’s not even here #wasteofmoney",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "597977",
+        "tweet_id": 597977,
+        "author_id": "256947",
+        "raw_text": "I call bulls**t. Why advertise next day delivery on Prime if that’s not what you get? @115830 @AmazonHelp https://t.co/MvkEZ2HYOO",
+        "cleaned_text": "I call bulls**t. Why advertise next day delivery on Prime if that’s not what you get?",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      },
+      {
+        "thread_id": "137147",
+        "tweet_id": 137147,
+        "author_id": "146928",
+        "raw_text": "@AmazonHelp one day delivery should mean one day delivery not order on Friday and get it on Monday, if that’s what it is it should be worded as one working day delivery.",
+        "cleaned_text": "one day delivery should mean one day delivery not order on Friday and get it on Monday, if that’s what it is it should be worded as one working day delivery.",
+        "tier": "partially_usable",
+        "cluster_id": 0
+      }
+    ]
+  },
+  "cluster_1": {
+    "cluster_id": 1,
+    "count": 417,
+    "percentage": 8.44,
+    "top_terms": [
+      "today",
+      "parcel",
+      "delivered",
+      "arrive",
+      "delivery",
+      "supposed",
+      "ordered",
+      "says",
+      "package",
+      "yesterday"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "445577",
+        "tweet_id": 445577,
+        "author_id": "220514",
+        "raw_text": "@AmazonHelp yesterday my package was delivered. Today it was and it’s not even what I ordered!!! https://t.co/JObjGZStgy",
+        "cleaned_text": "yesterday my package was delivered. Today it was and it’s not even what I ordered!!!",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "162060",
+        "tweet_id": 162060,
+        "author_id": "153412",
+        "raw_text": "@AmazonHelp hi parcel supposed to be being delivered today but it isn’t here https://t.co/s5xxBmINhF",
+        "cleaned_text": "hi parcel supposed to be being delivered today but it isn’t here",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "84262",
+        "tweet_id": 84262,
+        "author_id": "134539",
+        "raw_text": "Yet again @115830 @AmazonHelp I'm skeptical my delivery will arrive today when it's not left Preston yet... https://t.co/AvAXsAs6iW",
+        "cleaned_text": "Yet again I'm skeptical my delivery will arrive today when it's not left Preston yet...",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "286268",
+        "tweet_id": 286268,
+        "author_id": "184200",
+        "raw_text": "@AmazonHelp I've had an email to say my parcel has been delivered today through my letterbox but it hasn't ?! Where is it??",
+        "cleaned_text": "I've had an email to say my parcel has been delivered today through my letterbox but it hasn't ?! Where is it??",
+        "tier": "usable",
+        "cluster_id": 1
+      },
+      {
+        "thread_id": "394062",
+        "tweet_id": 394062,
+        "author_id": "167356",
+        "raw_text": "@AmazonHelp  still my parcel not delivered...",
+        "cleaned_text": "still my parcel not delivered...",
+        "tier": "partially_usable",
+        "cluster_id": 1
+      }
+    ]
+  },
+  "cluster_2": {
+    "cluster_id": 2,
+    "count": 669,
+    "percentage": 13.55,
+    "top_terms": [
+      "order",
+      "refund",
+      "delivered",
+      "received",
+      "cancelled",
+      "help",
+      "hi",
+      "placed",
+      "delivery",
+      "prime"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "2565",
+        "tweet_id": 2565,
+        "author_id": "116319",
+        "raw_text": "@AmazonHelp Where is my order? https://t.co/pXnKSCo2ex",
+        "cleaned_text": "Where is my order?",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "420039",
+        "tweet_id": 420039,
+        "author_id": "215139",
+        "raw_text": "@AmazonHelp where's my order? 026-5974794-2685140",
+        "cleaned_text": "where's my order? 026-5974794-2685140",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "294860",
+        "tweet_id": 294860,
+        "author_id": "186220",
+        "raw_text": "@AmazonHelp Where's my order?!!!!!",
+        "cleaned_text": "Where's my order?!!!!!",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "150468",
+        "tweet_id": 150468,
+        "author_id": "150318",
+        "raw_text": "@AmazonHelp why my order is not deliverd yet ? Order no \n402-5451856-1923548 @115850 @137341",
+        "cleaned_text": "why my order is not deliverd yet ? Order no 402-5451856-1923548",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      },
+      {
+        "thread_id": "513448",
+        "tweet_id": 513448,
+        "author_id": "238165",
+        "raw_text": "@AmazonHelp who do I contact when my order is incomplete? I have received only part of my order when it should be coming together.",
+        "cleaned_text": "who do I contact when my order is incomplete? I have received only part of my order when it should be coming together.",
+        "tier": "partially_usable",
+        "cluster_id": 2
+      }
+    ]
+  },
+  "cluster_3": {
+    "cluster_id": 3,
+    "count": 62,
+    "percentage": 1.26,
+    "top_terms": [
+      "gift",
+      "gift card",
+      "card",
+      "amazon gift",
+      "amazon",
+      "way",
+      "cards",
+      "gift cards",
+      "account",
+      "send"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "158776",
+        "tweet_id": 158776,
+        "author_id": "152501",
+        "raw_text": "@115821 @AmazonHelp I got a gift card can of https://t.co/TxfRRfvKgb  can I get it converted to same amount to @115850 @115851",
+        "cleaned_text": "I got a gift card can of can I get it converted to same amount to",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "358780",
+        "tweet_id": 358780,
+        "author_id": "200975",
+        "raw_text": "@AmazonHelp +6282232645222 I cant use my gift card to order, i havent credit card, so i have gift card only. btw shipping to Indonesia",
+        "cleaned_text": "+6282232645222 I cant use my gift card to order, i havent credit card, so i have gift card only. btw shipping to Indonesia",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "564906",
+        "tweet_id": 564906,
+        "author_id": "157468",
+        "raw_text": "@AmazonHelp can I buy an Amazon gift card using a regular Visa Gift Card?",
+        "cleaned_text": "can I buy an Amazon gift card using a regular Visa Gift Card?",
+        "tier": "usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "553318",
+        "tweet_id": 553318,
+        "author_id": "249040",
+        "raw_text": "@AmazonHelp how does an American send an Amazon gift card to a Canadian?",
+        "cleaned_text": "how does an American send an Amazon gift card to a Canadian?",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      },
+      {
+        "thread_id": "345291",
+        "tweet_id": 345291,
+        "author_id": "198158",
+        "raw_text": "@AmazonHelp trying to add the gift card but there seems an issue. https://t.co/cZ3i8JQgSG",
+        "cleaned_text": "trying to add the gift card but there seems an issue.",
+        "tier": "partially_usable",
+        "cluster_id": 3
+      }
+    ]
+  },
+  "cluster_4": {
+    "cluster_id": 4,
+    "count": 2480,
+    "percentage": 50.21,
+    "top_terms": [
+      "help",
+      "package",
+      "delivery",
+      "just",
+      "ordered",
+      "product",
+      "prime",
+      "need",
+      "return",
+      "time"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "319494",
+        "tweet_id": 319494,
+        "author_id": "192176",
+        "raw_text": "@192177 Or @AmazonHelp can you help?",
+        "cleaned_text": "Or can you help?",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "346269",
+        "tweet_id": 346269,
+        "author_id": "198417",
+        "raw_text": "@AmazonHelp help please",
+        "cleaned_text": "help please",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "423827",
+        "tweet_id": 423827,
+        "author_id": "192916",
+        "raw_text": "@115850 @AmazonHelp will you help me or not.",
+        "cleaned_text": "will you help me or not.",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "547919",
+        "tweet_id": 547919,
+        "author_id": "247484",
+        "raw_text": "@AmazonHelp Please help!",
+        "cleaned_text": "Please help!",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      },
+      {
+        "thread_id": "422218",
+        "tweet_id": 422218,
+        "author_id": "215574",
+        "raw_text": "@AmazonHelp can you help https://t.co/TqK5w94OWu",
+        "cleaned_text": "can you help",
+        "tier": "partially_usable",
+        "cluster_id": 4
+      }
+    ]
+  },
+  "cluster_5": {
+    "cluster_id": 5,
+    "count": 323,
+    "percentage": 6.54,
+    "top_terms": [
+      "customer",
+      "service",
+      "customer service",
+      "care",
+      "customer care",
+      "worst",
+      "amazon",
+      "delivery",
+      "support",
+      "customer support"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "180720",
+        "tweet_id": 180720,
+        "author_id": "158476",
+        "raw_text": "The apathy exhibited by @115850 's customer service is not just deplorable but warrants retribution. @AmazonHelp @127187 @115821",
+        "cleaned_text": "The apathy exhibited by 's customer service is not just deplorable but warrants retribution.",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "283993",
+        "tweet_id": 283993,
+        "author_id": "183641",
+        "raw_text": "As always, outstanding service from @115821 @AmazonHelp. Their customer service is the best out there!",
+        "cleaned_text": "As always, outstanding service from . Their customer service is the best out there!",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "218213",
+        "tweet_id": 218213,
+        "author_id": "168027",
+        "raw_text": "@AmazonHelp why is your customer service so terrible??",
+        "cleaned_text": "why is your customer service so terrible??",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "83402",
+        "tweet_id": 83402,
+        "author_id": "134323",
+        "raw_text": "@AmazonHelp why is your customer service so awful",
+        "cleaned_text": "why is your customer service so awful",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      },
+      {
+        "thread_id": "574032",
+        "tweet_id": 574032,
+        "author_id": "254980",
+        "raw_text": "Please help me with your customer service @115850 @AmazonHelp",
+        "cleaned_text": "Please help me with your customer service",
+        "tier": "partially_usable",
+        "cluster_id": 5
+      }
+    ]
+  },
+  "cluster_6": {
+    "cluster_id": 6,
+    "count": 664,
+    "percentage": 13.44,
+    "top_terms": [
+      "amazon",
+      "amazon prime",
+      "prime",
+      "account",
+      "email",
+      "pay",
+      "amazon pay",
+      "hi",
+      "help",
+      "app"
+    ],
+    "representative_samples": [
+      {
+        "thread_id": "258861",
+        "tweet_id": 258861,
+        "author_id": "171656",
+        "raw_text": "#amazon @115851 @AmazonHelp @115821 @116090 Is anyone there? https://t.co/cZv2mzFjGI",
+        "cleaned_text": "#amazon Is anyone there?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "164926",
+        "tweet_id": 164926,
+        "author_id": "154228",
+        "raw_text": "@AmazonHelp why do i have to pay to get something by tomorrow if i have amazon prime?",
+        "cleaned_text": "why do i have to pay to get something by tomorrow if i have amazon prime?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "543574",
+        "tweet_id": 543574,
+        "author_id": "246252",
+        "raw_text": "Really Amazon?! @115830 @AmazonHelp https://t.co/KhgqAdiGGE",
+        "cleaned_text": "Really Amazon?!",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "233776",
+        "tweet_id": 233776,
+        "author_id": "171652",
+        "raw_text": "@AmazonHelp Still not amazon prime for dutch students? :( any idear if that is comming soon?",
+        "cleaned_text": "Still not amazon prime for dutch students? :( any idear if that is comming soon?",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      },
+      {
+        "thread_id": "579871",
+        "tweet_id": 579871,
+        "author_id": "256570",
+        "raw_text": "Why am I being charged for Amazon prime when I don't even have an account?! @115821 @AmazonHelp",
+        "cleaned_text": "Why am I being charged for Amazon prime when I don't even have an account?!",
+        "tier": "partially_usable",
+        "cluster_id": 6
+      }
+    ]
+  }
+}
